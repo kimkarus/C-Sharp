@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="NalogEncryption">
+</Property><Property Name="Solution File" Value="F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\NalogEncryption.sln">
+</Property><Property Name="User Options File" Value="F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\NalogEncryption.suo">
+</Property><Property Name="Date" Value="29 декабря 2011 г.">
+</Property><Property Name="Time" Value="12:02">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="NalogEncryption.sln" Description="File successfully backed up as F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\Backup\NalogEncryption.sln">
+</Event><Event ErrorLevel="0" Project="" Source="NalogEncryption.suo" Description="File successfully backed up as F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\Backup\NalogEncryption.suo">
+</Event><Event ErrorLevel="0" Project="NalogEncryption" Source="NalogEncryption.csproj" Description="Project file successfully backed up as F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\Backup\NalogEncryption.csproj">
+</Event><Event ErrorLevel="0" Project="NalogEncryption" Source="Classes\Encryption.cs" Description="File successfully backed up as F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\Backup\Classes\Encryption.cs">
+</Event><Event ErrorLevel="0" Project="NalogEncryption" Source="FormGeneratePass.cs" Description="File successfully backed up as F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\Backup\FormGeneratePass.cs">
+</Event><Event ErrorLevel="0" Project="NalogEncryption" Source="FormGeneratePass.Designer.cs" Description="File successfully backed up as F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\Backup\FormGeneratePass.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NalogEncryption" Source="Program.cs" Description="File successfully backed up as F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="NalogEncryption" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="NalogEncryption" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NalogEncryption" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NalogEncryption" Source="Properties\Settings.settings" Description="File successfully backed up as F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="NalogEncryption" Source="FormGeneratePass.resx" Description="File successfully backed up as F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\Backup\FormGeneratePass.resx">
+</Event><Event ErrorLevel="0" Project="NalogEncryption" Source="Properties\Resources.resx" Description="File successfully backed up as F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="NalogEncryption" Source="NalogEncryption.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="NalogEncryption" Source="NalogEncryption.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="NalogEncryption.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="NalogEncryption.sln" Description="Converted">
+</Event></UpgradeLog>

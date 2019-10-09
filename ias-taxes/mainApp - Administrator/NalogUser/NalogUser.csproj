@@ -1,0 +1,672 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DEAE5459-F41B-4B51-8A3F-5A2FDAD084F1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>NalogUser</RootNamespace>
+    <AssemblyName>NalogUser</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <TargetCulture>ru</TargetCulture>
+    <ProductName>NalogUser</ProductName>
+    <PublisherName>NalogUser</PublisherName>
+    <SuiteName>NalogUser</SuiteName>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>0.0.8.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>false</BootstrapperEnabled>
+    <BootstrapperComponentsUrl>http://tax-analysis.z4.ru/</BootstrapperComponentsUrl>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>
+    </DocumentationFile>
+    <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <TargetZone>Custom</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>B6AB93370BB93E0735646351AD48339603BC849F</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>NalogUser_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Chart2DLib">
+      <HintPath>..\Chart2DLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>dll\Microsoft.ReportViewer.Common.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>dll\Microsoft.ReportViewer.WinForms.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="PresentationCore, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>dll\PresentationCore.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="PresentationFramework, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>dll\PresentationFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>dll\System.Data.DataSetExtensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web.Services">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>dll\System.Xml.Linq.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="UIAutomationProvider, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>dll\UIAutomationProvider.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="WindowsBase, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>dll\WindowsBase.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="WindowsFormsIntegration, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>dll\WindowsFormsIntegration.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>App.settings</DependentUpon>
+    </Compile>
+    <Compile Include="base_nalogDataSet.cs">
+      <DependentUpon>base_nalogDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="base_nalogDataSet.Designer.cs">
+      <DependentUpon>base_nalogDataSet.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="base_nalog_viewsDataSet.cs">
+      <DependentUpon>base_nalog_viewsDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="base_nalog_viewsDataSet.Designer.cs">
+      <DependentUpon>base_nalog_viewsDataSet.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Classes\AnalysisData\Spreading.cs" />
+    <Compile Include="Classes\Encryption.cs" />
+    <Compile Include="Classes\AnalysisData\PropertiesReport.cs" />
+    <Compile Include="Classes\Data\Base.cs" />
+    <Compile Include="Classes\Timer.cs" />
+    <Compile Include="Controls\AnalysisData\UserControlSubjects.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\AnalysisData\UserControlSubjects.Designer.cs">
+      <DependentUpon>UserControlSubjects.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\AnalysisData\UserControlTaxes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\AnalysisData\UserControlTaxes.Designer.cs">
+      <DependentUpon>UserControlTaxes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Map\SubjectDetailMapUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Map\SubjectDetailMapUserControl.Designer.cs">
+      <DependentUpon>SubjectDetailMapUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Map\UserControl2.xaml.cs">
+      <DependentUpon>UserControl2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Settings\UserControlAccessSettings.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Settings\UserControlAccessSettings.Designer.cs">
+      <DependentUpon>UserControlAccessSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Settings\UserControlSQLSettings.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Settings\UserControlSQLSettings.Designer.cs">
+      <DependentUpon>UserControlSQLSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SubjectDetailMapControl.xaml.cs">
+      <DependentUpon>SubjectDetailMapControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Map\UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Map\UserControl1.Designer.cs">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormStarter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormStarter.Designer.cs">
+      <DependentUpon>FormStarter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ComponentViews.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Forms\ComponentViews.Designer.cs">
+      <DependentUpon>ComponentViews.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormChoiceParamAdvance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormChoiceParamAdvance.Designer.cs">
+      <DependentUpon>FormChoiceParamAdvance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormExperimental.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormExperimental.Designer.cs">
+      <DependentUpon>FormExperimental.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormExtention.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormExtention.Designer.cs">
+      <DependentUpon>FormExtention.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormParams.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormParams.Designer.cs">
+      <DependentUpon>FormParams.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormParamsSpreading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormParamsSpreading.Designer.cs">
+      <DependentUpon>FormParamsSpreading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormReport.Designer.cs">
+      <DependentUpon>FormReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAbout.Designer.cs">
+      <DependentUpon>FormAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormSettings.Designer.cs">
+      <DependentUpon>FormSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormSpreading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormSpreading.Designer.cs">
+      <DependentUpon>FormSpreading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormSubjectDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormSubjectDetail.Designer.cs">
+      <DependentUpon>FormSubjectDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs" />
+    <Compile Include="Properties\assemlyes.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>assemlyes.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\AnalysisData\AnalysisData.cs" />
+    <Compile Include="Classes\AnalysisData\AnalysisDataVariables.cs" />
+    <Compile Include="Classes\Core.cs" />
+    <Compile Include="Controls\MapControl.xaml.cs">
+      <DependentUpon>MapControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\UserControlAnalysisDataDefault.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\UserControlAnalysisDataDefault.Designer.cs">
+      <DependentUpon>UserControlAnalysisDataDefault.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\folders.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>folders.settings</DependentUpon>
+    </Compile>
+    <Compile Include="FormApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormApp.Designer.cs">
+      <DependentUpon>FormApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormAnalysisData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormAnalysisData.Designer.cs">
+      <DependentUpon>FormAnalysisData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormAnalysisDataOnMap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormAnalysisDataOnMap.Designer.cs">
+      <DependentUpon>FormAnalysisDataOnMap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Controls\AnalysisData\UserControlSubjects.resx">
+      <DependentUpon>UserControlSubjects.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\AnalysisData\UserControlTaxes.resx">
+      <DependentUpon>UserControlTaxes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Map\UserControl1.resx">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Settings\UserControlAccessSettings.resx">
+      <DependentUpon>UserControlAccessSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Settings\UserControlSQLSettings.resx">
+      <DependentUpon>UserControlSQLSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\UserControlAnalysisDataDefault.resx">
+      <DependentUpon>UserControlAnalysisDataDefault.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormApp.resx">
+      <DependentUpon>FormApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormStarter.resx">
+      <DependentUpon>FormStarter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ComponentViews.resx">
+      <DependentUpon>ComponentViews.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormAnalysisData.resx">
+      <DependentUpon>FormAnalysisData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormAnalysisDataOnMap.resx">
+      <DependentUpon>FormAnalysisDataOnMap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormChoiceParamAdvance.resx">
+      <DependentUpon>FormChoiceParamAdvance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormExperimental.resx">
+      <DependentUpon>FormExperimental.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormExtention.resx">
+      <DependentUpon>FormExtention.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormParams.resx">
+      <DependentUpon>FormParams.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormParamsSpreading.resx">
+      <DependentUpon>FormParamsSpreading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormReport.resx">
+      <DependentUpon>FormReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAbout.resx">
+      <DependentUpon>FormAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormSettings.resx">
+      <DependentUpon>FormSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormSpreading.resx">
+      <DependentUpon>FormSpreading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormSubjectDetail.resx">
+      <DependentUpon>FormSubjectDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="config.ini">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="user.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="app.config" />
+    <None Include="App.settings">
+      <Generator>PublicSettingsSingleFileGenerator</Generator>
+      <LastGenOutput>App.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="reports\Report_z_subjects.rdlc">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="reports\Report_taxes.rdlc">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="reports\Report_z_tax_subjects.rdlc">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="reports\Report_rmit_subjects.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="reports\Report_rmit_eea_gks_subjects.rdlc">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="reports\Report_kdol_eea_gks_subjects.rdlc">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="reports\Report_share_ti_eea_gks_districts.rdlc">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="reports\Report_dynamics_total_ti_subjects.rdlc">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="reports\Report_dynamics_ti_tax_subjects.rdlc">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="reports\1\Report_analytics_forecast_ticp_subjects.rdlc">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="reports\Report_dynamics_total_ti_districts.rdlc">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="reports\Report_performance_functioning_eea_districts.rdlc">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="reports\1\Report_d.rdlc">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="reports\Report_ti_tax_districts.rdlc">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="reports\Report_ti_eea_districts.rdlc">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="reports\Report_population_eea_subjects.rdlc">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="reports\Report_dynamics_population_subjects.rdlc">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="reports\Report_share_population_of_subject_in_district.rdlc">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="reports\Report_share_population_of_subjects.rdlc">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="reports\Report_dynamics_z_subjects.rdlc">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="reports\Report_dynamics_rmit_subjects.rdlc">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="reports\Report_kdol_of_subjects.rdlc">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="reports\Report_analytics_forecast_ticp_subjects.rdlc">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="reports\Report_dynamics_ti_eea_subjects.rdlc">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="reports\Report_ti_eea_taxes_subjects.rdlc">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <EmbeddedResource Include="reports\Report_lawrence_subjects.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="NalogUser_TemporaryKey.pfx" />
+    <None Include="Properties\app.manifest" />
+    <None Include="reports\Report_eea_views_tax_subjects.rdlc">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="reports\Report_rmit_tax_subjects.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="reports\Report_ti_tax_subjects.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="reports\Report_ti_eea_subjects.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="reports\Report_total_ti_districts.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="reports\Report_total_ti_tax_subjects.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="reports\Report_population_subjects.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="reports\Report_population_districts.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="reports\Report_kdol_subjects.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="base_nalogDataSet.xsc">
+      <DependentUpon>base_nalogDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="base_nalogDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>base_nalogDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="base_nalogDataSet.xss">
+      <DependentUpon>base_nalogDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="base_nalog_viewsDataSet.xsc">
+      <DependentUpon>base_nalog_viewsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="base_nalog_viewsDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>base_nalog_viewsDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="base_nalog_viewsDataSet.xss">
+      <DependentUpon>base_nalog_viewsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\assemlyes.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>assemlyes.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Properties\folders.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>folders.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Controls\Starter\" />
+    <Folder Include="Forms\Params\" />
+    <Folder Include="language\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="Controls\Map\UserControl2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\SubjectDetailMapControl.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Controls\MapControl.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="reports\Reports_params.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="Microsoft.ReportViewer.DataVisualization">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Microsoft.ReportViewer.ProcessingObjectModel">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Microsoft.ReportViewer.DataVisualization.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Microsoft.ReportViewer.ProcessingObjectModel.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

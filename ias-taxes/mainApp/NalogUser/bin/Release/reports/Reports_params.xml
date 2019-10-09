@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ParamsReports>
+  <Reports>
+    <ReportName>Report_population_eea_subjects</ReportName>
+    <ReportNameBase>population_eea_subjects</ReportNameBase>
+    <ReportExtention>rdlc</ReportExtention>
+    <ReportDataSetName>population_eea_subjectsDataSet</ReportDataSetName>
+    <ReportDataSource>base_nalog_viewsDataSet</ReportDataSource>
+    <TableDataNameBase>View_rpopulation_eea_subjects</TableDataNameBase>
+    <TableMain></TableMain>
+    <LineFilter>WHERE</LineFilter>
+    <YearFilter></YearFilter>
+    <YearsOperationSigns></YearsOperationSigns>
+    <Discription></Discription>
+    <Group></Group>
+    <OrderBy></OrderBy>
+    <ForMap></ForMap>
+    <CountField>13</CountField>
+    <Type></Type>
+    <IsDirect>false</IsDirect>
+    <Parameters></Parameters>
+    <values>population</values>
+    <SQL>
+      SELECT id_district, district_name, id_subject, subject_name, id_tax_eea, tax_name, year, population, latin_name FROM [tax-177_nalog].View_population_eea_subjects
+    </SQL>
+  </Reports>
+  <Reports>
+    <ReportName>Report_share_population_eea_subjects</ReportName>
+    <ReportNameBase>share_population_eea_subjects</ReportNameBase>
+    <ReportExtention>rdlc</ReportExtention>
+    <ReportDataSetName>share_population_eea_subjectsDataSet</ReportDataSetName>
+    <ReportDataSource>base_nalog_viewsDataSet</ReportDataSource>
+    <TableDataNameBase>View_share_rpopulation_eea_subjects</TableDataNameBase>
+    <TableMain></TableMain>
+    <LineFilter>WHERE</LineFilter>
+    <YearFilter></YearFilter>
+    <YearsOperationSigns></YearsOperationSigns>
+    <Discription></Discription>
+    <Group></Group>
+    <OrderBy></OrderBy>
+    <ForMap></ForMap>
+    <CountField>13</CountField>
+    <Type></Type>
+    <IsDirect>false</IsDirect>
+    <Parameters></Parameters>
+    <values>busyed_subject, sum_busyed_district, share_busyed_eea</values>
+    <SQL>
+      SELECT id_district, district_name, id_subject, subject_name, year, id_tax_eea, name, busyed_subject, sum_busyed_district, share_busyed_eea, latin_name FROM [tax-177_nalog].View_share_population_eea_subjects
+    </SQL>
+  </Reports>
+  <Reports>
+    <ReportName>Report_total_ti_eea_gks_subjects</ReportName>
+    <ReportNameBase>total_ti_eea_gks_subjects</ReportNameBase>
+    <ReportExtention>rdlc</ReportExtention>
+    <ReportDataSetName>total_ti_eea_gks_subjectsDataSet</ReportDataSetName>
+    <ReportDataSource>base_nalog_viewsDataSet</ReportDataSource>
+    <TableDataNameBase>View_total_ti_eea_gks_subjects</TableDataNameBase>
+    <TableMain></TableMain>
+    <LineFilter>WHERE</LineFilter>
+    <YearFilter></YearFilter>
+    <YearsOperationSigns></YearsOperationSigns>
+    <Discription></Discription>
+    <Group></Group>
+    <OrderBy></OrderBy>
+    <ForMap></ForMap>
+    <CountField>13</CountField>
+    <Type></Type>
+    <IsDirect>false</IsDirect>
+    <Parameters></Parameters>
+    <values>sum_ti</values>
+    <SQL>
+      SELECT id_discrict, district_name, id_subject, subject_name, id_tax_eea, tax_name, year, sum_ti, latin_name FROM [tax-177_nalog].View_total_ti_eea_gks_subjects
+    </SQL>
+  </Reports>
+  <Reports>
+    <ReportName>Report_share_ti_eea_gks_subjects</ReportName>
+    <ReportNameBase>share_ti_eea_gks_subjects</ReportNameBase>
+    <ReportExtention>rdlc</ReportExtention>
+    <ReportDataSetName>share_ti_eea_gks_subjectsDataSet</ReportDataSetName>
+    <ReportDataSource>base_nalog_viewsDataSet</ReportDataSource>
+    <TableDataNameBase>View_share_ti_eea_gks_subjects</TableDataNameBase>
+    <TableMain></TableMain>
+    <LineFilter>WHERE</LineFilter>
+    <YearFilter></YearFilter>
+    <YearsOperationSigns></YearsOperationSigns>
+    <Discription></Discription>
+    <Group></Group>
+    <OrderBy></OrderBy>
+    <ForMap></ForMap>
+    <CountField>13</CountField>
+    <Type></Type>
+    <IsDirect>false</IsDirect>
+    <Parameters></Parameters>
+    <values>sum_ti_subject, sum_ti_district, share_ti</values>
+    <SQL>
+      SELECT id_district, district_name, id_subject, subject_name, id_tax_eea, tax_name, year, sum_ti_subject, sum_ti_district, share_ti, latin_name FROM [tax-177_nalog].View_share_ti_eea_gks_subjects
+    </SQL>
+  </Reports>
+
+  <Reports>
+    <ReportName>Report_ti_population_eea_gks_subjects</ReportName>
+    <ReportNameBase>ti_population_eea_gks_subjects</ReportNameBase>
+    <ReportExtention>rdlc</ReportExtention>
+    <ReportDataSetName>ti_population_eea_gks_subjectsDataSet</ReportDataSetName>
+    <ReportDataSource>base_nalog_viewsDataSet</ReportDataSource>
+    <TableDataNameBase>View_ti_population_eea_gks_subjects</TableDataNameBase>
+    <TableMain></TableMain>
+    <LineFilter>WHERE</LineFilter>
+    <YearFilter></YearFilter>
+    <YearsOperationSigns></YearsOperationSigns>
+    <Discription></Discription>
+    <Group></Group>
+    <OrderBy></OrderBy>
+    <ForMap>true</ForMap>
+    <CountField>3</CountField>
+    <Type>eea</Type>
+    <IsDirect>false</IsDirect>
+    <Parameters>id_district, district_name, id_subject, subject_name, tax_name, id_tax_eea, sequence, population, year, ti</Parameters>
+    <values>population,ti</values>
+    <SQL>
+      SELECT id_district, district_name, id_subject, subject_name, tax_name, id_tax_eea, sequence, population, year, ti FROM [tax-177_nalog].View_ti_population_eea_gks_subjects
+    </SQL>
+  </Reports>
+</ParamsReports>

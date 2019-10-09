@@ -1,0 +1,220 @@
+F:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Debug\NalogAdministrator.exe.config
+F:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.exe
+F:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.pdb
+F:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Debug\NalogAdministrator.exe
+F:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Debug\NalogAdministrator.pdb
+F:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.ImportData.ComponentImportData.resources
+F:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.UserControlImportDataPopulation.resources
+F:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.UserControlImportDataReportDefaultTools.resources
+F:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.FormApp.resources
+F:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.FormImportData.resources
+F:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.FormSettings.resources
+F:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.FormTableView.resources
+F:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Properties.Resources.resources
+F:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+J:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Debug\NalogAdministrator.exe.config
+J:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Debug\NalogAdministrator.exe
+J:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Debug\NalogAdministrator.pdb
+J:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.ImportData.ComponentImportData.resources
+J:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.UserControlImportDataPopulation.resources
+J:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.UserControlImportDataReportDefaultTools.resources
+J:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.FormApp.resources
+J:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.FormImportData.resources
+J:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.FormSettings.resources
+J:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.FormTableView.resources
+J:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Properties.Resources.resources
+J:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+J:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+J:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.exe
+J:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.pdb
+J:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Debug\Properties\Settings.settings
+J:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.csproj.ResolveComReference.cache
+E:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Debug\Properties\Settings.settings
+E:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Debug\NalogAdministrator.exe.config
+E:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Debug\NalogAdministrator.exe
+E:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Debug\NalogAdministrator.pdb
+E:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.csproj.ResolveComReference.cache
+E:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.ImportData.ComponentImportData.resources
+E:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.UserControlImportDataPopulation.resources
+E:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.UserControlImportDataReportDefaultTools.resources
+E:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.FormApp.resources
+E:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.FormImportData.resources
+E:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.FormSettings.resources
+E:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.FormTableView.resources
+E:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Properties.Resources.resources
+E:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.exe
+E:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.pdb
+F:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.csproj.ResolveComReference.cache
+I:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Debug\Properties\Settings.settings
+I:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Debug\NalogAdministrator.exe.config
+I:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Debug\NalogAdministrator.exe
+I:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Debug\NalogAdministrator.pdb
+I:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.csproj.ResolveComReference.cache
+I:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.ImportData.ComponentImportData.resources
+I:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.UserControlImportDataPopulation.resources
+I:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.UserControlImportDataReportDefaultTools.resources
+I:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.FormApp.resources
+I:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.FormImportData.resources
+I:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.FormSettings.resources
+I:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.FormTableView.resources
+I:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Properties.Resources.resources
+I:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.exe
+I:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.pdb
+H:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Debug\Properties\Settings.settings
+H:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Debug\NalogAdministrator.exe.config
+H:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Debug\NalogAdministrator.exe
+H:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Debug\NalogAdministrator.pdb
+H:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.csproj.ResolveComReference.cache
+H:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.ImportData.ComponentImportData.resources
+H:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.UserControlImportDataPopulation.resources
+H:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.UserControlImportDataReportDefaultTools.resources
+H:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.FormApp.resources
+H:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.FormImportData.resources
+H:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.FormSettings.resources
+H:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.FormTableView.resources
+H:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Properties.Resources.resources
+H:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+H:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+H:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.exe
+H:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.pdb
+H:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.Taxes.TaxesView.resources
+H:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.Reference.FormReference.resources
+H:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.FederalDistrict.resources
+H:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.Subjects.resources
+H:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.Taxes.Taxes.resources
+J:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.FederalDistrict.resources
+J:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.Subjects.resources
+J:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.Taxes.Taxes.resources
+J:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.Taxes.TaxesView.resources
+J:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.Reference.FormReference.resources
+L:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Debug\Properties\Settings.settings
+L:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Debug\NalogAdministrator.exe.config
+L:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Debug\NalogAdministrator.exe
+L:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Debug\NalogAdministrator.pdb
+L:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.csproj.ResolveComReference.cache
+L:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.ImportData.ComponentImportData.resources
+L:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.UserControlImportDataPopulation.resources
+L:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.UserControlImportDataReportDefaultTools.resources
+L:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.FederalDistrict.resources
+L:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.Subjects.resources
+L:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.Taxes.Taxes.resources
+L:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.Taxes.TaxesView.resources
+L:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.FormApp.resources
+L:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.FormImportData.resources
+L:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.FormSettings.resources
+L:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.FormTableView.resources
+L:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.Reference.FormReference.resources
+L:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Properties.Resources.resources
+L:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+L:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+L:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.exe
+L:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.pdb
+I:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.FederalDistrict.resources
+I:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.Subjects.resources
+I:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.Taxes.Taxes.resources
+I:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.Taxes.TaxesView.resources
+I:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.Reference.FormReference.resources
+N:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Debug\Properties\Settings.settings
+N:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Debug\NalogAdministrator.exe.config
+N:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Debug\NalogAdministrator.exe
+N:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Debug\NalogAdministrator.pdb
+N:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\ResolveAssemblyReference.cache
+N:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.csproj.ResolveComReference.cache
+N:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.ImportData.ComponentImportData.resources
+N:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.UserControlImportDataPopulation.resources
+N:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.UserControlImportDataReportDefaultTools.resources
+N:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.FederalDistrict.resources
+N:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.Reports.resources
+N:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.Subjects.resources
+N:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.Taxes.resources
+N:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.TaxesView.resources
+N:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.FormApp.resources
+N:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.FormImportData.resources
+N:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.FormSettings.resources
+N:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.FormTableView.resources
+N:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.Reference.FormReference.resources
+N:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.Reference.FormReportConfig.resources
+N:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Properties.Resources.resources
+N:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.exe
+N:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.pdb
+N:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.FormStatisticImportData.resources
+N:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.TaxAuthority.resources
+N:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.SourceData1NM.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Debug\NalogAdministrator.exe.config
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.csproj.ResolveComReference.cache
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.exe
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.pdb
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Debug\Properties\Settings.settings
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Debug\NalogAdministrator.exe
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Debug\NalogAdministrator.pdb
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\ResolveAssemblyReference.cache
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.ImportData.ComponentImportData.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.SourceData1NM.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.TaxAuthority.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.FormStatisticImportData.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.UserControlImportDataPopulation.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.UserControlImportDataReportDefaultTools.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.FederalDistrict.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.Reports.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.Subjects.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.Taxes.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.TaxesView.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.FormApp.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.FormImportData.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.FormSettings.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.FormTableView.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.Reference.FormReference.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.Reference.FormReportConfig.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Properties.Resources.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.TaxesKea.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.Cities.resources
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Debug\NalogAdministrator.exe.config
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.csproj.ResolveComReference.cache
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.exe
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.pdb
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Debug\NalogAdministrator.exe.config
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.csproj.ResolveComReference.cache
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.exe
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Debug\NalogAdministrator.pdb
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Debug\NalogAdministrator.exe.config
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Debug\NalogAdministrator.csproj.ResolveComReference.cache
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Debug\NalogAdministrator.exe
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Debug\NalogAdministrator.pdb
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.ImportData.ComponentImportData.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.ImportData.UserControlImportDataSubjectIndex.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.Cities.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.SourceData1NM.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.TaxAuthority.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.TaxesKea.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.UserControlAnalysisDataDefault.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Form1.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.Form1.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.FormCreaterModel.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.FormDataAggregation.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.FormDelete.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.FormSearch.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.FormStatisticImportData.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.UserControlImportDataPopulation.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.UserControlImportDataReportDefaultTools.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.FederalDistrict.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.Reports.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.Subjects.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.Taxes.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Controls.Reference.TaxesView.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Debug\NalogAdministrator.FormApp.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.FormImportData.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.FormSettings.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.FormTableView.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.Reference.FormReference.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Forms.Reference.FormReportConfig.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Debug\NalogAdministrator.Properties.Resources.resources

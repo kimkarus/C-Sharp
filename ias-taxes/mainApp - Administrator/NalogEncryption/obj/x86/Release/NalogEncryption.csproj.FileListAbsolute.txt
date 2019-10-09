@@ -1,0 +1,78 @@
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogEncryption\bin\Release\NalogEncryption.exe
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogEncryption\bin\Release\NalogEncryption.pdb
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\ResolveAssemblyReference.cache
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.FormGeneratePass.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.Properties.Resources.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.exe
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.pdb
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\bin\Release\NalogEncryption.exe
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\bin\Release\NalogEncryption.pdb
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\ResolveAssemblyReference.cache
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.FormGeneratePass.resources
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.Properties.Resources.resources
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.exe
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.pdb
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.exe
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.pdb
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\bin\Release\NalogEncryption.exe
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\bin\Release\NalogEncryption.pdb
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\ResolveAssemblyReference.cache
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.FormGeneratePass.resources
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.Properties.Resources.resources
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\bin\Release\NalogEncryption.exe.config
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\bin\Release\NalogEncryption.exe.config
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\bin\Release\NalogEncryption.exe
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\bin\Release\NalogEncryption.pdb
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\ResolveAssemblyReference.cache
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.FormGeneratePass.resources
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.Properties.Resources.resources
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.exe
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.pdb
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\bin\Release\NalogEncryption.exe.config
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\bin\Release\NalogEncryption.exe
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\bin\Release\NalogEncryption.pdb
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\ResolveAssemblyReference.cache
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.FormGeneratePass.resources
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.Properties.Resources.resources
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.exe
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.pdb
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\bin\Release\NalogEncryption.exe.config
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\bin\Release\NalogEncryption.exe
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\bin\Release\NalogEncryption.pdb
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\ResolveAssemblyReference.cache
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.FormGeneratePass.resources
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.Properties.Resources.resources
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.exe
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.pdb
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\bin\Release\NalogEncryption.exe.config
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\bin\Release\NalogEncryption.exe
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\bin\Release\NalogEncryption.pdb
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\ResolveAssemblyReference.cache
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.FormGeneratePass.resources
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.Properties.Resources.resources
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.exe
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.pdb
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\bin\Release\NalogEncryption.exe.config
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\bin\Release\NalogEncryption.exe
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\bin\Release\NalogEncryption.pdb
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\ResolveAssemblyReference.cache
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.FormGeneratePass.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.Properties.Resources.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.exe
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.pdb
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\bin\Release\NalogEncryption.exe.config
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\bin\Release\NalogEncryption.exe
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\bin\Release\NalogEncryption.pdb
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\ResolveAssemblyReference.cache
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.FormGeneratePass.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.Properties.Resources.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.exe
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.pdb
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogEncryption\bin\Release\NalogEncryption.exe.config
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogEncryption\bin\Release\NalogEncryption.exe
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogEncryption\bin\Release\NalogEncryption.pdb
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogEncryption\obj\x86\Release\ResolveAssemblyReference.cache
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.FormGeneratePass.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.Properties.Resources.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.exe
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogEncryption\obj\x86\Release\NalogEncryption.pdb

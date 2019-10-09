@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ParamsReports>
+  <Reports>
+    <ReportName>Report_kdol_subjects</ReportName>
+    <ReportNameBase>kdol_subjects</ReportNameBase>
+    <ReportExtention>rdlc</ReportExtention>
+    <ReportDataSetName>kdol_subjectsDataSet</ReportDataSetName>
+    <ReportDataSource>base_nalog_viewsDataSet</ReportDataSource>
+    <TableDataNameBase>View_kdol_subjects</TableDataNameBase>
+    <Discription></Discription>
+    <Group></Group>
+    <SQL>
+      SELECT        id_district, district_name, id_subject, year, subject_name, sum_total_ti_subject, share_ti_subject, busyed, share_busyed, kdol, useview
+      FROM            View_kdol_subjects
+    </SQL>
+  </Reports> 
+  <Reports>
+    <ReportName>Report_total_ti_subjects</ReportName>
+    <ReportNameBase>total_ti_subjects</ReportNameBase>
+    <ReportExtention>rdlc</ReportExtention>
+    <ReportDataSetName>total_ti_subjectsDataSet</ReportDataSetName>
+    <ReportDataSource>base_nalog_viewsDataSet</ReportDataSource>
+    <TableDataNameBase>View_total_ti_subjects</TableDataNameBase>
+    <Discription></Discription>
+    <Group></Group>
+    <SQL>
+      SELECT     id_district, district_name, id_subject, subject_name, short_name, year, total_ti_subject, useview
+      FROM         View_total_ti_subjects
+    </SQL>
+  </Reports>
+  <Reports>
+    <ReportName>Report_population_districts</ReportName>
+    <ReportNameBase>population_districts</ReportNameBase>
+    <ReportExtention>rdlc</ReportExtention>
+    <ReportDataSetName>population_districtsDataSet</ReportDataSetName>
+    <ReportDataSource>base_nalog_viewsDataSet</ReportDataSource>
+    <TableDataNameBase>View_population_districts</TableDataNameBase>
+    <Discription></Discription>
+    <Group></Group>
+    <SQL>
+      SELECT      id_district, district_name, year, sum_total, sum_busyed, sum_unemployed
+      FROM         View_population_districts
+    </SQL>
+  </Reports>
+  <Reports>
+    <ReportName>Report_ti_tax_subjects</ReportName>
+    <ReportNameBase>view_ti_tax</ReportNameBase>
+    <ReportExtention>rdlc</ReportExtention>
+    <ReportDataSetName>ti_tax_subjectsDataSet</ReportDataSetName>
+    <ReportDataSource>base_nalog_viewsDataSet</ReportDataSource>
+    <TableDataNameBase>View_ti_tax_subjects</TableDataNameBase>
+    <Discription></Discription>
+    <Group></Group>
+    <SQL>
+      SELECT      id_district, district_name, id_subject, subject_name, id_tax, tax_name, id_tax_view, tax_view_name, sum_ti_subjects, year, useview
+      FROM         View_ti_tax_subjects
+    </SQL>
+  </Reports>
+  <Reports>
+    <ReportName>Report_rmit_tax_subjects</ReportName>
+    <ReportNameBase>mrit_tax_subjects</ReportNameBase>
+    <ReportExtention>rdlc</ReportExtention>
+    <ReportDataSetName>mrit_tax_subjectsDataSet</ReportDataSetName>
+    <ReportDataSource>base_nalog_viewsDataSet</ReportDataSource>
+    <TableDataNameBase>View_rmit_tax_subjects</TableDataNameBase>
+    <Discription></Discription>
+    <Group></Group>
+    <SQL>
+      SELECT id_district, district_name, id_subject, subject_name, busyed, tax_name, useview, TI, year, rmit, id_tax FROM View_rmit_tax_subjects
+    </SQL>
+  </Reports>
+  <Reports>
+    <ReportName>Report_total_ti_districts</ReportName>
+    <ReportNameBase>total_ti_districts</ReportNameBase>
+    <ReportExtention>rdlc</ReportExtention>
+    <ReportDataSetName>total_ti_districtsDataSet</ReportDataSetName>
+    <ReportDataSource>base_nalog_viewsDataSet</ReportDataSource>
+    <TableDataNameBase>View_total_ti_districts</TableDataNameBase>
+    <Discription></Discription>
+    <Group></Group>
+    <SQL>
+      SELECT district_name, total_ti_district, useview, year, id_district FROM View_total_ti_districts
+    </SQL>
+  </Reports>
+  <Reports>
+    <ReportName>Report_population_subjects</ReportName>
+    <ReportNameBase>population_subjects</ReportNameBase>
+    <ReportExtention>rdlc</ReportExtention>
+    <ReportDataSetName>population_subjectsDataSet</ReportDataSetName>
+    <ReportDataSource>base_nalog_viewsDataSet</ReportDataSource>
+    <TableDataNameBase>View_share_population_subjects</TableDataNameBase>
+    <Discription></Discription>
+    <Group></Group>
+    <SQL>
+      SELECT id_district, district_name, id_subject, subject_name, year, sum_total_district, total_population, share_total_population, busyed, share_busyed, unemployed, share_unemployed, sum_busyed_district, sum_unemployed_district FROM View_share_population_subjects
+    </SQL>
+  </Reports>
+  <Reports>
+    <ReportName>Report_nm_nom_error_subjects</ReportName>
+    <ReportNameBase>nm_nom_error_subjects</ReportNameBase>
+    <ReportExtention>rdlc</ReportExtention>
+    <ReportDataSetName>nm_nom_error_subjectsDataSet</ReportDataSetName>
+    <ReportDataSource>base_nalog_viewsDataSet</ReportDataSource>
+    <TableDataNameBase>View_nm_nom_error_subjects</TableDataNameBase>
+    <Discription></Discription>
+    <Group></Group>
+    <SQL>
+      SELECT id_district, district_name, id_subject, subject_name, ti_nm, ti_nom, year, error, id_tax_eea FROM View_nm_nom_error_subjects
+    </SQL>
+  </Reports>
+  <Reports>
+    <ReportName>Report_ti_eea_subjects</ReportName>
+    <ReportNameBase>ti_eea_subjects</ReportNameBase>
+    <ReportExtention>rdlc</ReportExtention>
+    <ReportDataSetName>ti_eea_subjectsDataSet</ReportDataSetName>
+    <ReportDataSource>base_nalog_viewsDataSet</ReportDataSource>
+    <TableDataNameBase>View_ti_eea_subjects</TableDataNameBase>
+    <Discription></Discription>
+    <Group></Group>
+    <SQL>
+      SELECT id_district, district_name, id_subject, subject_name, id_tax, name_tax, TI, year, id_tax_eea, name_eea FROM View_ti_eea_subjects
+    </SQL>
+  </Reports>
+  <Reports>
+    <ReportName>Report_eea_subjects</ReportName>
+    <ReportNameBase>eea_subjects</ReportNameBase>
+    <ReportExtention>rdlc</ReportExtention>
+    <ReportDataSetName>eea_subjectsDataSet</ReportDataSetName>
+    <ReportDataSource>base_nalog_viewsDataSet</ReportDataSource>
+    <TableDataNameBase>View_eea_subjects</TableDataNameBase>
+    <Discription></Discription>
+    <Group></Group>
+    <SQL>
+      SELECT id_district, district_name, id_subject, subject_name, name, year, id1040, id1210, id1220, id1730, id1020, id_tax_eea FROM View_eea_subjects
+    </SQL>
+  </Reports>
+  <Reports>
+    <ReportName>Report_rmit_eea_subjects</ReportName>
+    <ReportNameBase>rmit_eea_subjects</ReportNameBase>
+    <ReportExtention>rdlc</ReportExtention>
+    <ReportDataSetName>rmit_eea_subjectsDataSet</ReportDataSetName>
+    <ReportDataSource>base_nalog_viewsDataSet</ReportDataSource>
+    <TableDataNameBase>View_rmit_eea_subjects</TableDataNameBase>
+    <Discription></Discription>
+    <Group></Group>
+    <SQL>
+      SELECT id_distrcit, district_name, id_subjects, subject_name, id_tax_eea, tax_name, year, ti, population, rmit_eea FROM View_rmit_eea_subjects
+    </SQL>
+  </Reports>
+</ParamsReports>

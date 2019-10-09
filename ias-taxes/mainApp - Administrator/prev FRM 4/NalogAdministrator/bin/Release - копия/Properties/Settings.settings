@@ -1,0 +1,141 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="NalogAdministrator.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="base_nalogConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=192.168.10.175,1433;Initial Catalog=tax-177_nalog;Persist Security Info=True;User ID=ias;Password=oMXM0wOJ;Packet Size=8000&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=192.168.10.175,1433;Initial Catalog=tax-177_nalog;Persist Security Info=True;User ID=ias;Password=oMXM0wOJ;Packet Size=8000</Value>
+    </Setting>
+    <Setting Name="AllowExcelSheet" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;2&lt;/string&gt;
+  &lt;string&gt;3&lt;/string&gt;
+  &lt;string&gt;4&lt;/string&gt;
+  &lt;string&gt;5&lt;/string&gt;
+  &lt;string&gt;Лист1&lt;/string&gt;
+  &lt;string&gt;Лист2&lt;/string&gt;
+  &lt;string&gt;Лист3&lt;/string&gt;
+  &lt;string&gt;raz1&lt;/string&gt;
+  &lt;string&gt;raz2&lt;/string&gt;
+  &lt;string&gt;raz3&lt;/string&gt;
+  &lt;string&gt;1раздел&lt;/string&gt;
+  &lt;string&gt;2раздел&lt;/string&gt;
+  &lt;string&gt;3раздел&lt;/string&gt;
+  &lt;string&gt;Раздел 1&lt;/string&gt;
+  &lt;string&gt;Раздел 2&lt;/string&gt;
+  &lt;string&gt;Раздел 3&lt;/string&gt;
+  &lt;string&gt;1разд&lt;/string&gt;
+  &lt;string&gt;2разд&lt;/string&gt;
+  &lt;string&gt;3разд&lt;/string&gt;
+  &lt;string&gt;1nm&lt;/string&gt;
+  &lt;string&gt;Лист&lt;/string&gt;
+  &lt;string&gt;свод&lt;/string&gt;
+  &lt;string&gt;раздел 1&lt;/string&gt;
+  &lt;string&gt;раздел 2&lt;/string&gt;
+  &lt;string&gt;раздел 3&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="TablesPopulation" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;total_population&lt;/string&gt;
+  &lt;string&gt;busyed&lt;/string&gt;
+  &lt;string&gt;unemployed&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="TypeReports" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;1NM&lt;/string&gt;
+  &lt;string&gt;1NOM&lt;/string&gt;
+  &lt;string&gt;4NOM&lt;/string&gt;
+  &lt;string&gt;1NM-FORCAST&lt;/string&gt;
+  &lt;string&gt;1NOM-FORCAST&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="AllowExcelOleDbSheets" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;raz1&lt;/string&gt;
+  &lt;string&gt;raz2&lt;/string&gt;
+  &lt;string&gt;raz3&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="Report1NM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1NM</Value>
+    </Setting>
+    <Setting Name="Report1NOM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1NOM</Value>
+    </Setting>
+    <Setting Name="NumberCol1NOM" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;2&lt;/string&gt;
+  &lt;string&gt;4&lt;/string&gt;
+  &lt;string&gt;6&lt;/string&gt;
+  &lt;string&gt;7&lt;/string&gt;
+  &lt;string&gt;9&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="CodeTax1NOM" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;1020&lt;/string&gt;
+  &lt;string&gt;1040&lt;/string&gt;
+  &lt;string&gt;1210&lt;/string&gt;
+  &lt;string&gt;1220&lt;/string&gt;
+  &lt;string&gt;1730&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="Report1NMForcast" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1NM-FORCAST</Value>
+    </Setting>
+    <Setting Name="Report1NOMForcast" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1NOM-FORCAST</Value>
+    </Setting>
+    <Setting Name="Report1NMForcast11" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1NM-FORCAST-11-</Value>
+    </Setting>
+    <Setting Name="ListOfIdsSubjectsYears" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TablesIndex" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;domestic_regional_product&lt;/string&gt;
+  &lt;string&gt;consumer_price_index&lt;/string&gt;
+  &lt;string&gt;cost_of_basic_funds&lt;/string&gt;
+  &lt;string&gt;investment_in_basic_fund&lt;/string&gt;
+  &lt;string&gt;fact_end_consumption_home&lt;/string&gt;
+  &lt;string&gt;level_of_runout_of_basic&lt;/string&gt;
+  &lt;string&gt;debt_ti&lt;/string&gt;
+  &lt;string&gt;count_owns_auto&lt;/string&gt;
+  &lt;string&gt;avg_consumption_population&lt;/string&gt;
+  &lt;string&gt;avg_income_population&lt;/string&gt;
+  &lt;string&gt;count_organizations_companies&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="ListOfTaxes" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1130;1210;</Value>
+    </Setting>
+    <Setting Name="ListOfIdsSubjects" Type="System.String" Scope="User">
+      <Value Profile="(Default)">25;</Value>
+    </Setting>
+    <Setting Name="ShemeListsIndexesAndSQL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">domestic_regional_product,domestic_regional_product;consumer_price_index,consumer_price_index;
+cost_of_basic_funds,cost_of_basic_funds;
+investment_in_basic_fund,investment_in_basic_fund;
+fact_end_consumption_home_economy_on_territory_of_subject,fact_end_consumption_home;
+level_of_runout_of_basic_funds,level_of_runout_of_basic;</Value>
+    </Setting>
+    <Setting Name="Report4NM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4NM</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,6 @@
+G:\Projects\3 ИАС Налоги РФ\mainApp\NalogUserWebApp\bin\NalogUserWebApp.dll
+G:\Projects\3 ИАС Налоги РФ\mainApp\NalogUserWebApp\bin\NalogUserWebApp.pdb
+G:\Projects\3 ИАС Налоги РФ\mainApp\NalogUserWebApp\obj\Release\NalogUserWebApp.dll
+G:\Projects\3 ИАС Налоги РФ\mainApp\NalogUserWebApp\obj\Release\NalogUserWebApp.pdb
+G:\Projects\3 ИАС Налоги РФ\mainApp\NalogUserWebApp\bin\Chart2DLib.dll
+G:\Projects\3 ИАС Налоги РФ\mainApp\NalogUserWebApp\obj\Release\NalogUserWebApp.csprojResolveAssemblyReference.cache

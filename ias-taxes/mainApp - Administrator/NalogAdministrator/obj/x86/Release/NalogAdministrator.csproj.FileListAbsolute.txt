@@ -1,0 +1,1058 @@
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\Properties\Settings.settings
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.exe.config
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.exe
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.pdb
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\ResolveAssemblyReference.cache
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.csproj.ResolveComReference.cache
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.ComponentImportData.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Cities.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.SourceData1NM.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxAuthority.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesKea.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormStatisticImportData.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataPopulation.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataReportDefaultTools.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.FederalDistrict.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Reports.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Subjects.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Taxes.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesView.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.FormApp.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormImportData.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSettings.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormTableView.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReference.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReportConfig.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Properties.Resources.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.exe
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.pdb
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.exe.config
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.csproj.ResolveComReference.cache
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.exe
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.pdb
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\Properties\Settings.settings
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.exe
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.pdb
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\ResolveAssemblyReference.cache
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.ComponentImportData.resources
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Cities.resources
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.SourceData1NM.resources
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxAuthority.resources
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesKea.resources
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormStatisticImportData.resources
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataPopulation.resources
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataReportDefaultTools.resources
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.FederalDistrict.resources
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Reports.resources
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Subjects.resources
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Taxes.resources
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesView.resources
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.FormApp.resources
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormImportData.resources
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSettings.resources
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormTableView.resources
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReference.resources
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReportConfig.resources
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Properties.Resources.resources
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.exe.config
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.csproj.ResolveComReference.cache
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.exe
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.pdb
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\Properties\Settings.settings
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.exe
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.pdb
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.ComponentImportData.resources
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Cities.resources
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.SourceData1NM.resources
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxAuthority.resources
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesKea.resources
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormStatisticImportData.resources
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataPopulation.resources
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataReportDefaultTools.resources
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.FederalDistrict.resources
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Reports.resources
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Subjects.resources
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Taxes.resources
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesView.resources
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.FormApp.resources
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormImportData.resources
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSettings.resources
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormTableView.resources
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReference.resources
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReportConfig.resources
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Properties.Resources.resources
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.exe.config
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.csproj.ResolveComReference.cache
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.exe
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.pdb
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.exe
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\Properties\Settings.settings
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.exe.config
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\ResolveAssemblyReference.cache
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.csproj.ResolveComReference.cache
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.ComponentImportData.resources
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Cities.resources
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.SourceData1NM.resources
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxAuthority.resources
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesKea.resources
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormStatisticImportData.resources
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataPopulation.resources
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataReportDefaultTools.resources
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.FederalDistrict.resources
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Reports.resources
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Subjects.resources
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Taxes.resources
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesView.resources
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.FormApp.resources
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormImportData.resources
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSettings.resources
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormTableView.resources
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReference.resources
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReportConfig.resources
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Properties.Resources.resources
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.exe
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.pdb
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.pdb
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\Properties\Settings.settings
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.exe.config
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.exe
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.pdb
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\ResolveAssemblyReference.cache
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.csproj.ResolveComReference.cache
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.ComponentImportData.resources
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Cities.resources
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.SourceData1NM.resources
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxAuthority.resources
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesKea.resources
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormStatisticImportData.resources
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataPopulation.resources
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataReportDefaultTools.resources
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.FederalDistrict.resources
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Reports.resources
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Subjects.resources
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Taxes.resources
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesView.resources
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.FormApp.resources
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormImportData.resources
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSettings.resources
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormTableView.resources
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReference.resources
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReportConfig.resources
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Properties.Resources.resources
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.exe
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.pdb
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\Properties\Settings.settings
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.exe.config
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.exe
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.pdb
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\ResolveAssemblyReference.cache
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.csproj.ResolveComReference.cache
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.ComponentImportData.resources
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Cities.resources
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.SourceData1NM.resources
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxAuthority.resources
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesKea.resources
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormStatisticImportData.resources
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataPopulation.resources
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataReportDefaultTools.resources
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.FederalDistrict.resources
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Reports.resources
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Subjects.resources
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Taxes.resources
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesView.resources
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.FormApp.resources
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormImportData.resources
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSettings.resources
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormTableView.resources
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReference.resources
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReportConfig.resources
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Properties.Resources.resources
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.exe
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.pdb
+Q:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.exe.config
+Q:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.csproj.ResolveComReference.cache
+Q:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.exe
+Q:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.pdb
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\Properties\Settings.settings
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.exe.config
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.exe
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.pdb
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\ResolveAssemblyReference.cache
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.csproj.ResolveComReference.cache
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.ComponentImportData.resources
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Cities.resources
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.SourceData1NM.resources
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxAuthority.resources
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesKea.resources
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Form1.resources
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormStatisticImportData.resources
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataPopulation.resources
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataReportDefaultTools.resources
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.FederalDistrict.resources
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Reports.resources
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Subjects.resources
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Taxes.resources
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesView.resources
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.FormApp.resources
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormImportData.resources
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSettings.resources
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormTableView.resources
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReference.resources
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReportConfig.resources
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Properties.Resources.resources
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.exe
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.pdb
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Form1.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.exe.config
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.csproj.ResolveComReference.cache
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.exe
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.pdb
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\Properties\Settings.settings
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.exe
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.pdb
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\ResolveAssemblyReference.cache
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.ComponentImportData.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Cities.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.SourceData1NM.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxAuthority.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesKea.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Form1.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Form1.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormStatisticImportData.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataPopulation.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataReportDefaultTools.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.FederalDistrict.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Reports.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Subjects.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Taxes.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesView.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.FormApp.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormImportData.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSettings.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormTableView.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReference.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReportConfig.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Properties.Resources.resources
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\Properties\Settings.settings
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.exe.config
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.exe
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.pdb
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.csproj.ResolveComReference.cache
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.ComponentImportData.resources
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Cities.resources
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.SourceData1NM.resources
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxAuthority.resources
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesKea.resources
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Form1.resources
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Form1.resources
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormStatisticImportData.resources
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataPopulation.resources
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataReportDefaultTools.resources
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.FederalDistrict.resources
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Reports.resources
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Subjects.resources
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Taxes.resources
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesView.resources
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.FormApp.resources
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormImportData.resources
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSettings.resources
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormTableView.resources
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReference.resources
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReportConfig.resources
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Properties.Resources.resources
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.exe
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.pdb
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\Properties\Settings.settings
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.exe.config
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.exe
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.pdb
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\ResolveAssemblyReference.cache
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.csproj.ResolveComReference.cache
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.ComponentImportData.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Cities.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.SourceData1NM.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxAuthority.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesKea.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Form1.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Form1.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormStatisticImportData.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataPopulation.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataReportDefaultTools.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.FederalDistrict.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Reports.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Subjects.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Taxes.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesView.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.FormApp.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormImportData.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSettings.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormTableView.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReference.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReportConfig.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Properties.Resources.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.exe
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.pdb
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.exe.config
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.csproj.ResolveComReference.cache
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.exe
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.pdb
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\Properties\Settings.settings
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.exe
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.pdb
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\ResolveAssemblyReference.cache
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.ComponentImportData.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Cities.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.SourceData1NM.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxAuthority.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesKea.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Form1.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Form1.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormStatisticImportData.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataPopulation.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataReportDefaultTools.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.FederalDistrict.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Reports.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Subjects.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Taxes.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesView.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.FormApp.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormImportData.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSettings.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormTableView.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReference.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReportConfig.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Properties.Resources.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormDataAggregation.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.UserControlImportDataSubjectIndex.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.exe.config
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.csproj.ResolveComReference.cache
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.exe
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.pdb
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\Properties\Settings.settings
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.exe
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.pdb
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.ComponentImportData.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.UserControlImportDataSubjectIndex.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Cities.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.SourceData1NM.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxAuthority.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesKea.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Form1.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Form1.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormDataAggregation.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormStatisticImportData.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataPopulation.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataReportDefaultTools.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.FederalDistrict.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Reports.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Subjects.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Taxes.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesView.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.FormApp.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormImportData.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSettings.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormTableView.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReference.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReportConfig.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Properties.Resources.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\Configs\Agregation.config
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\System.Data.DataSetExtensions.dll
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\System.Xml.dll
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\Office.dll
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\Configs\Agregation.config
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\System.Data.DataSetExtensions.dll
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\System.Xml.dll
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\Office.dll
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\Configs\ImportReports.config
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\Configs\ImportReports.config
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogAdministrator\bin\Release\Configs\Agregation.config
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogAdministrator\bin\Release\Configs\ImportReports.config
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogAdministrator\bin\Release\Properties\Settings.settings
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogAdministrator\bin\Release\NalogAdministrator.exe.config
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogAdministrator\bin\Release\NalogAdministrator.exe
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogAdministrator\bin\Release\NalogAdministrator.pdb
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogAdministrator\bin\Release\System.Data.DataSetExtensions.dll
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogAdministrator\bin\Release\System.Xml.dll
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogAdministrator\bin\Release\Office.dll
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogAdministrator\bin\Release\Microsoft.Office.Interop.Excel.dll
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogAdministrator\obj\x86\Release\ResolveAssemblyReference.cache
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogAdministrator\obj\x86\Release\NalogAdministrator.csproj.ResolveComReference.cache
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.ComponentImportData.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.UserControlImportDataSubjectIndex.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Cities.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.SourceData1NM.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxAuthority.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesKea.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogAdministrator\obj\x86\Release\NalogAdministrator.Form1.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Form1.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormDataAggregation.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSearch.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormStatisticImportData.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataPopulation.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataReportDefaultTools.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.FederalDistrict.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Reports.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Subjects.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Taxes.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesView.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogAdministrator\obj\x86\Release\NalogAdministrator.FormApp.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormImportData.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSettings.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormTableView.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReference.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReportConfig.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogAdministrator\obj\x86\Release\NalogAdministrator.Properties.Resources.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogAdministrator\obj\x86\Release\NalogAdministrator.exe
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogAdministrator\obj\x86\Release\NalogAdministrator.pdb
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\Configs\Agregation.config
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\Configs\ImportReports.config
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\Properties\Settings.settings
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.exe.config
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.exe
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.pdb
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\System.Data.DataSetExtensions.dll
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\System.Xml.dll
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\Office.dll
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\Microsoft.Office.Interop.Excel.dll
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\ResolveAssemblyReference.cache
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.csproj.ResolveComReference.cache
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.ComponentImportData.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.UserControlImportDataSubjectIndex.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Cities.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.SourceData1NM.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxAuthority.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesKea.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Form1.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Form1.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormDataAggregation.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSearch.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormStatisticImportData.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataPopulation.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataReportDefaultTools.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.FederalDistrict.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Reports.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Subjects.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Taxes.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesView.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.FormApp.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormImportData.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSettings.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormTableView.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReference.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReportConfig.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Properties.Resources.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.exe
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.pdb
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\Configs\Agregation.config
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\Configs\ImportReports.config
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\Properties\Settings.settings
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.exe.config
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.exe
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.pdb
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\System.Data.DataSetExtensions.dll
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\System.Xml.dll
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\Office.dll
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.csproj.ResolveComReference.cache
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.ComponentImportData.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.UserControlImportDataSubjectIndex.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Cities.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.SourceData1NM.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxAuthority.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesKea.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Form1.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Form1.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormDataAggregation.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSearch.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormStatisticImportData.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataPopulation.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataReportDefaultTools.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.FederalDistrict.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Reports.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Subjects.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Taxes.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesView.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.FormApp.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormImportData.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSettings.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormTableView.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReference.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReportConfig.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Properties.Resources.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.exe
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.pdb
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.exe.config
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.csproj.ResolveComReference.cache
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.exe
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.pdb
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\Configs\Agregation.config
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\Configs\ImportReports.config
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\Properties\Settings.settings
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.exe
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\NalogAdministrator.pdb
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\System.Data.DataSetExtensions.dll
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\System.Xml.dll
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\bin\Release\Microsoft.Office.Interop.Excel.dll
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\ResolveAssemblyReference.cache
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.ComponentImportData.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.UserControlImportDataSubjectIndex.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Cities.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.SourceData1NM.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxAuthority.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesKea.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Form1.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Form1.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormDataAggregation.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSearch.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormStatisticImportData.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataPopulation.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataReportDefaultTools.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.FederalDistrict.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Reports.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Subjects.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Taxes.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesView.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.FormApp.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormImportData.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSettings.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormTableView.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReference.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReportConfig.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Properties.Resources.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSearch.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.exe.config
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.csproj.ResolveComReference.cache
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.exe
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.pdb
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\Configs\Agregation.config
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\Configs\ImportReports.config
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\Properties\Settings.settings
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.exe
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.pdb
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\System.Data.DataSetExtensions.dll
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\System.Xml.dll
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.ComponentImportData.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.UserControlImportDataSubjectIndex.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Cities.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.SourceData1NM.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxAuthority.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesKea.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Form1.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Form1.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormDataAggregation.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSearch.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormStatisticImportData.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataPopulation.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataReportDefaultTools.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.FederalDistrict.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Reports.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Subjects.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Taxes.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesView.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.FormApp.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormImportData.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSettings.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormTableView.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReference.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReportConfig.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Properties.Resources.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\Configs\Agregation.config
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\Configs\ImportReports.config
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\Properties\Settings.settings
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.exe.config
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.exe
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.pdb
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\System.Data.DataSetExtensions.dll
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\System.Xml.dll
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\Microsoft.Office.Interop.Excel.dll
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\ResolveAssemblyReference.cache
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.csproj.ResolveComReference.cache
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.ComponentImportData.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.UserControlImportDataSubjectIndex.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Cities.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.SourceData1NM.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxAuthority.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesKea.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlAnalysisDataDefault.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Form1.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Form1.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormCreaterModel.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormDataAggregation.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSearch.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormStatisticImportData.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataPopulation.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataReportDefaultTools.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.FederalDistrict.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Reports.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Subjects.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Taxes.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesView.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.FormApp.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormImportData.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSettings.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormTableView.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReference.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReportConfig.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Properties.Resources.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.exe
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.pdb
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.exe.config
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.csproj.ResolveComReference.cache
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.exe
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.pdb
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\Configs\Agregation.config
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\Configs\ImportReports.config
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\Properties\Settings.settings
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.exe
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.pdb
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\alglibnet2.dll
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\System.Data.DataSetExtensions.dll
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\System.Xml.dll
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\Microsoft.Office.Interop.Excel.dll
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\ResolveAssemblyReference.cache
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.ComponentImportData.resources
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.UserControlImportDataSubjectIndex.resources
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Cities.resources
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.SourceData1NM.resources
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxAuthority.resources
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesKea.resources
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlAnalysisDataDefault.resources
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Form1.resources
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Form1.resources
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormCreaterModel.resources
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormDataAggregation.resources
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSearch.resources
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormStatisticImportData.resources
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataPopulation.resources
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataReportDefaultTools.resources
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.FederalDistrict.resources
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Reports.resources
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Subjects.resources
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Taxes.resources
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesView.resources
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.FormApp.resources
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormImportData.resources
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSettings.resources
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormTableView.resources
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReference.resources
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReportConfig.resources
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Properties.Resources.resources
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+F:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlAnalysisDataDefault.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormCreaterModel.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\Configs\Agregation.config
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\Configs\ImportReports.config
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\Properties\Settings.settings
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.exe.config
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.exe
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.pdb
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\System.Data.DataSetExtensions.dll
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\System.Xml.dll
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\Microsoft.Office.Interop.Excel.dll
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.csproj.ResolveComReference.cache
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.ComponentImportData.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.UserControlImportDataSubjectIndex.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Cities.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.SourceData1NM.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxAuthority.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesKea.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlAnalysisDataDefault.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Form1.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Form1.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormCreaterModel.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormDataAggregation.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSearch.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormStatisticImportData.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataPopulation.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataReportDefaultTools.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.FederalDistrict.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Reports.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Subjects.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Taxes.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesView.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.FormApp.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormImportData.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSettings.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormTableView.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReference.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReportConfig.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Properties.Resources.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.exe
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.pdb
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.csproj.GenerateResource.Cache
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.csprojResolveAssemblyReference.cache
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.exe.config
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.csproj.ResolveComReference.cache
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.exe
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.pdb
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.ComponentImportData.resources
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.UserControlImportDataSubjectIndex.resources
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Cities.resources
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.SourceData1NM.resources
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxAuthority.resources
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesKea.resources
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlAnalysisDataDefault.resources
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Form1.resources
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Form1.resources
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormCreaterModel.resources
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormDataAggregation.resources
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSearch.resources
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormStatisticImportData.resources
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataPopulation.resources
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataReportDefaultTools.resources
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.FederalDistrict.resources
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Reports.resources
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Subjects.resources
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Taxes.resources
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesView.resources
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.FormApp.resources
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormImportData.resources
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSettings.resources
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormTableView.resources
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReference.resources
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReportConfig.resources
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Properties.Resources.resources
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\Configs\Agregation.config
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\Configs\ImportReports.config
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\Properties\Settings.settings
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.exe
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.pdb
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\System.Data.DataSetExtensions.dll
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\System.Xml.dll
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\bin\Release\Microsoft.Office.Interop.Excel.dll
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.csprojResolveAssemblyReference.cache
+S:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.csproj.GenerateResource.Cache
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.exe.config
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.csproj.ResolveComReference.cache
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.exe
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.pdb
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\bin\Release\Configs\Agregation.config
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\bin\Release\Configs\ImportReports.config
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\bin\Release\Properties\Settings.settings
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.exe
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.pdb
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\bin\Release\System.Data.DataSetExtensions.dll
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\bin\Release\System.Xml.dll
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.ComponentImportData.resources
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.UserControlImportDataSubjectIndex.resources
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Cities.resources
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.SourceData1NM.resources
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxAuthority.resources
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesKea.resources
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlAnalysisDataDefault.resources
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Form1.resources
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Form1.resources
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormCreaterModel.resources
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormDataAggregation.resources
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormDelete.resources
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSearch.resources
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormStatisticImportData.resources
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataPopulation.resources
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataReportDefaultTools.resources
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.FederalDistrict.resources
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Reports.resources
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Subjects.resources
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Taxes.resources
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesView.resources
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.FormApp.resources
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormImportData.resources
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSettings.resources
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormTableView.resources
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReference.resources
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReportConfig.resources
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Properties.Resources.resources
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.csproj.GenerateResource.Cache
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.exe.config
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.csproj.ResolveComReference.cache
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.exe
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.pdb
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\Configs\Agregation.config
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\Configs\ImportReports.config
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\Properties\Settings.settings
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.exe
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.pdb
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\System.Data.DataSetExtensions.dll
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\System.Xml.dll
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.csprojResolveAssemblyReference.cache
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.ComponentImportData.resources
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.UserControlImportDataSubjectIndex.resources
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Cities.resources
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.SourceData1NM.resources
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxAuthority.resources
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesKea.resources
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlAnalysisDataDefault.resources
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Form1.resources
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Form1.resources
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormCreaterModel.resources
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormDataAggregation.resources
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormDelete.resources
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSearch.resources
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormStatisticImportData.resources
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataPopulation.resources
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataReportDefaultTools.resources
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.FederalDistrict.resources
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Reports.resources
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Subjects.resources
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Taxes.resources
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesView.resources
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.FormApp.resources
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormImportData.resources
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSettings.resources
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormTableView.resources
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReference.resources
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReportConfig.resources
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Properties.Resources.resources
+E:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.csproj.GenerateResource.Cache
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.csproj.ResolveComReference.cache
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.ComponentImportData.resources
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.UserControlImportDataSubjectIndex.resources
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Cities.resources
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.SourceData1NM.resources
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxAuthority.resources
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesKea.resources
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlAnalysisDataDefault.resources
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Form1.resources
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Form1.resources
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormCreaterModel.resources
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormDataAggregation.resources
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormDelete.resources
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSearch.resources
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormStatisticImportData.resources
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataPopulation.resources
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataReportDefaultTools.resources
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.FederalDistrict.resources
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Reports.resources
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Subjects.resources
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Taxes.resources
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesView.resources
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.FormApp.resources
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormImportData.resources
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSettings.resources
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormTableView.resources
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReference.resources
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReportConfig.resources
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Properties.Resources.resources
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.csproj.GenerateResource.Cache
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.exe.config
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.exe.config
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.csproj.ResolveComReference.cache
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.ComponentImportData.resources
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.UserControlImportDataSubjectIndex.resources
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Cities.resources
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.SourceData1NM.resources
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxAuthority.resources
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesKea.resources
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlAnalysisDataDefault.resources
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Form1.resources
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Form1.resources
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormCreaterModel.resources
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormDataAggregation.resources
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormDelete.resources
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSearch.resources
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormStatisticImportData.resources
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataPopulation.resources
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataReportDefaultTools.resources
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.FederalDistrict.resources
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Reports.resources
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Subjects.resources
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Taxes.resources
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesView.resources
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.FormApp.resources
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormImportData.resources
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSettings.resources
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormTableView.resources
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReference.resources
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReportConfig.resources
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Properties.Resources.resources
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.csproj.GenerateResource.Cache
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\bin\Release\Configs\Agregation.config
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\bin\Release\Configs\ImportReports.config
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\bin\Release\versions.txt
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\bin\Release\Properties\Settings.settings
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.exe
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.pdb
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\bin\Release\System.Data.DataSetExtensions.dll
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\bin\Release\System.Xml.dll
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\bin\Release\Microsoft.Office.Interop.Excel.dll
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.exe
+S:\Projects\ИАС Налоги РФ\Архив\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.pdb
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.exe
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.pdb
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\Configs\Agregation.config
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\Configs\ImportReports.config
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\versions.txt
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\Properties\Settings.settings
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.exe
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.pdb
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\System.Data.DataSetExtensions.dll
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\System.Xml.dll
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\ILYA\Desktop\mainApp - Administrator\NalogAdministrator\bin\Release\versions.txt
+S:\Projects\ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.csprojResolveAssemblyReference.cache
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.exe.config
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.csproj.ResolveComReference.cache
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.exe
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.pdb
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\bin\Release\Configs\Agregation.config
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\bin\Release\Configs\ImportReports.config
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\bin\Release\versions.txt
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\bin\Release\Properties\Settings.settings
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.exe
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.pdb
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\bin\Release\System.Data.DataSetExtensions.dll
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\bin\Release\System.Xml.dll
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.ComponentImportData.resources
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.UserControlImportDataSubjectIndex.resources
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Cities.resources
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.SourceData1NM.resources
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxAuthority.resources
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesKea.resources
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlAnalysisDataDefault.resources
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Form1.resources
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Form1.resources
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormCreaterModel.resources
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormDataAggregation.resources
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormDelete.resources
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSearch.resources
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormStatisticImportData.resources
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataPopulation.resources
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataReportDefaultTools.resources
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.FederalDistrict.resources
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Reports.resources
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Subjects.resources
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Taxes.resources
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesView.resources
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.FormApp.resources
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormImportData.resources
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSettings.resources
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormTableView.resources
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReference.resources
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReportConfig.resources
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Properties.Resources.resources
+C:\Users\ILYA\Desktop\ИАС\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.csproj.GenerateResource.Cache
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.csproj.ResolveComReference.cache
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.ComponentImportData.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.UserControlImportDataSubjectIndex.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Cities.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.SourceData1NM.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxAuthority.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesKea.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlAnalysisDataDefault.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Form1.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Form1.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormCreaterModel.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormDataAggregation.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormDelete.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSearch.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormStatisticImportData.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataPopulation.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataReportDefaultTools.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.FederalDistrict.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Reports.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Subjects.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Taxes.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesView.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.FormApp.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormImportData.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSettings.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormTableView.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReference.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReportConfig.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Properties.Resources.resources
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.csproj.GenerateResource.Cache
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\Configs\Agregation.config
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\Configs\ImportReports.config
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\i_SAE.r
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\i_SAE_fun.r
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\versions.txt
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\Properties\Settings.settings
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.exe.config
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.exe.manifest
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.application
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.exe
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.pdb
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\ClrFacade.dll
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\DynamicInterop.dll
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\RDotNet.dll
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\RDotNet.NativeLibrary.dll
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\System.Data.DataSetExtensions.dll
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\System.Xml.dll
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\ClrFacade.pdb
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\DynamicInterop.xml
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\RDotNet.xml
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\RDotNet.NativeLibrary.xml
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.TrustInfo.xml
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.exe.manifest
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.application
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.exe
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.pdb
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.exe.config
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.csproj.ResolveComReference.cache
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.exe
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.pdb
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\Configs\Agregation.config
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\Configs\ImportReports.config
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\i_SAE.r
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\i_SAE_fun.r
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\versions.txt
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\Properties\Settings.settings
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.exe.manifest
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.application
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.exe
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\NalogAdministrator.pdb
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\ClrFacade.dll
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\DynamicInterop.dll
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\RDotNet.dll
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\RDotNet.NativeLibrary.dll
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\System.Data.DataSetExtensions.dll
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\System.Xml.dll
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\ClrFacade.pdb
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\DynamicInterop.xml
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\RDotNet.xml
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\bin\Release\RDotNet.NativeLibrary.xml
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.ComponentImportData.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.ImportData.UserControlImportDataSubjectIndex.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Cities.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.SourceData1NM.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxAuthority.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesKea.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlAnalysisDataDefault.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Form1.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Form1.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormCreaterModel.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormDataAggregation.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormDelete.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSearch.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormStatisticImportData.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataPopulation.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.UserControlImportDataReportDefaultTools.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.FederalDistrict.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Reports.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Subjects.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.Taxes.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Controls.Reference.TaxesView.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.FormApp.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormImportData.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormSettings.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.FormTableView.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReference.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Forms.Reference.FormReportConfig.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.Properties.Resources.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.csproj.GenerateResource.Cache
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.TrustInfo.xml
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.exe.manifest
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.application
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.csprojResolveAssemblyReference.cache
+S:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogAdministrator\obj\x86\Release\NalogAdministrator.csprojResolveAssemblyReference.cache

@@ -1,0 +1,1367 @@
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_accum_share_ti-busyed.rdlc
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_eea_subjects.rdlc
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_nm_nom_error_subjects.rdlc
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_rmit_tax_subjects.rdlc
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_ti_tax_subjects.rdlc
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_ti_eea_subjects.rdlc
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_total_ti_districts.rdlc
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_total_ti_subjects.rdlc
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_population_subjects.rdlc
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_population_districts.rdlc
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_kdol_subjects.rdlc
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Reports_params.xml
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe.config
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe.manifest
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.application
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.pdb
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.Common.dll
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.WinForms.dll
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\PresentationCore.dll
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\PresentationFramework.dll
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\System.Web.Services.dll
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\System.Xml.dll
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\System.Xml.Linq.dll
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\UIAutomationProvider.dll
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\WindowsBase.dll
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\WindowsFormsIntegration.dll
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.WinForms.xml
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\ResolveAssemblyReference.cache
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\MapControl.baml
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\MapControl.g.cs
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser_Content.g.cs
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser_MarkupCompile.cache
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.g.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlSubjects.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlTaxes.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.UserControlAnalysisDataDefault.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormApp.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormLogin.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.ComponentViews.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisData.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisDataOnMap.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormChoiceParamAdvance.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormReport.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Properties.Resources.resources
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\RdlCompile.cache
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\RdlCompile.compiled
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.TrustInfo.xml
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.exe.manifest
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.application
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.exe
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.pdb
+O:\Институт\Предметы\Аспирантура\Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormAbout.resources
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_accum_share_ti-busyed.rdlc
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_eea_subjects.rdlc
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_nm_nom_error_subjects.rdlc
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_rmit_tax_subjects.rdlc
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_ti_tax_subjects.rdlc
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_ti_eea_subjects.rdlc
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_total_ti_districts.rdlc
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_total_ti_subjects.rdlc
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_population_subjects.rdlc
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_population_districts.rdlc
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_kdol_subjects.rdlc
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Reports_params.xml
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe.config
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe.manifest
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.application
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.pdb
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.Common.dll
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\PresentationCore.dll
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\PresentationFramework.dll
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\System.Web.Services.dll
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\System.Xml.dll
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\System.Xml.Linq.dll
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\UIAutomationProvider.dll
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\WindowsBase.dll
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\WindowsFormsIntegration.dll
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.WinForms.xml
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\MapControl.baml
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\MapControl.g.cs
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser_Content.g.cs
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser_MarkupCompile.cache
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.g.resources
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlSubjects.resources
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlTaxes.resources
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.UserControlAnalysisDataDefault.resources
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormApp.resources
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormLogin.resources
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.ComponentViews.resources
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisData.resources
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisDataOnMap.resources
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormChoiceParamAdvance.resources
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormReport.resources
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormAbout.resources
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Properties.Resources.resources
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\RdlCompile.cache
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\RdlCompile.compiled
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.TrustInfo.xml
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.exe.manifest
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.application
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.exe
+D:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.pdb
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_accum_share_ti-busyed.rdlc
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_eea_subjects.rdlc
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_nm_nom_error_subjects.rdlc
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_rmit_tax_subjects.rdlc
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_ti_tax_subjects.rdlc
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_ti_eea_subjects.rdlc
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_total_ti_districts.rdlc
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_total_ti_subjects.rdlc
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_population_subjects.rdlc
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_population_districts.rdlc
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_kdol_subjects.rdlc
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Reports_params.xml
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe.config
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe.manifest
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.application
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.pdb
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.Common.dll
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.WinForms.dll
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\PresentationCore.dll
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\PresentationFramework.dll
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\System.Web.Services.dll
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\System.Xml.dll
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\System.Xml.Linq.dll
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\UIAutomationProvider.dll
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\WindowsBase.dll
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\WindowsFormsIntegration.dll
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.WinForms.xml
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\ResolveAssemblyReference.cache
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\MapControl.baml
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\MapControl.g.cs
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser_Content.g.cs
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser_MarkupCompile.cache
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.g.resources
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlSubjects.resources
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlTaxes.resources
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.UserControlAnalysisDataDefault.resources
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormApp.resources
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormLogin.resources
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.ComponentViews.resources
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisData.resources
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisDataOnMap.resources
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormChoiceParamAdvance.resources
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormReport.resources
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormAbout.resources
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Properties.Resources.resources
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\RdlCompile.cache
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\RdlCompile.compiled
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.TrustInfo.xml
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.exe.manifest
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.application
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.exe
+G:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.pdb
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_accum_share_ti-busyed.rdlc
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_eea_subjects.rdlc
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_nm_nom_error_subjects.rdlc
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_rmit_tax_subjects.rdlc
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_ti_tax_subjects.rdlc
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_ti_eea_subjects.rdlc
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_total_ti_districts.rdlc
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_total_ti_subjects.rdlc
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_population_subjects.rdlc
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_population_districts.rdlc
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_kdol_subjects.rdlc
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Reports_params.xml
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe.config
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe.manifest
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.application
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.pdb
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.Common.dll
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.WinForms.dll
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\PresentationCore.dll
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\PresentationFramework.dll
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\System.Web.Services.dll
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\System.Xml.dll
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\System.Xml.Linq.dll
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\UIAutomationProvider.dll
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\WindowsBase.dll
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\WindowsFormsIntegration.dll
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.WinForms.xml
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\ResolveAssemblyReference.cache
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\MapControl.baml
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\MapControl.g.cs
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser_Content.g.cs
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser_MarkupCompile.cache
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.g.resources
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlSubjects.resources
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlTaxes.resources
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.Map.UserControl1.resources
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.UserControlAnalysisDataDefault.resources
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormApp.resources
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormLogin.resources
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.ComponentViews.resources
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisData.resources
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisDataOnMap.resources
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormChoiceParamAdvance.resources
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormReport.resources
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormAbout.resources
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Properties.Resources.resources
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\RdlCompile.cache
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\RdlCompile.compiled
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.TrustInfo.xml
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.exe.manifest
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.application
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.exe
+O:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.pdb
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe.config
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.exe
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.pdb
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_accum_share_ti-busyed.rdlc
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_eea_subjects.rdlc
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_nm_nom_error_subjects.rdlc
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_rmit_tax_subjects.rdlc
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_ti_tax_subjects.rdlc
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_ti_eea_subjects.rdlc
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_total_ti_districts.rdlc
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_total_ti_subjects.rdlc
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_population_subjects.rdlc
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_population_districts.rdlc
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_kdol_subjects.rdlc
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Reports_params.xml
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe.manifest
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.application
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.pdb
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.Common.dll
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.WinForms.dll
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\PresentationCore.dll
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\PresentationFramework.dll
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\System.Web.Services.dll
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\System.Xml.dll
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\System.Xml.Linq.dll
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\UIAutomationProvider.dll
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\WindowsBase.dll
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\WindowsFormsIntegration.dll
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.WinForms.xml
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\ResolveAssemblyReference.cache
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\MapControl.baml
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\MapControl.g.cs
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser_Content.g.cs
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser_MarkupCompile.cache
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.g.resources
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlSubjects.resources
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlTaxes.resources
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.Map.UserControl1.resources
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.UserControlAnalysisDataDefault.resources
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormApp.resources
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormLogin.resources
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.ComponentViews.resources
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisData.resources
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisDataOnMap.resources
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormChoiceParamAdvance.resources
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormReport.resources
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormAbout.resources
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Properties.Resources.resources
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\RdlCompile.cache
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\RdlCompile.compiled
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.TrustInfo.xml
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.exe.manifest
+F:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.application
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_accum_share_ti-busyed.rdlc
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_eea_subjects.rdlc
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_nm_nom_error_subjects.rdlc
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_rmit_tax_subjects.rdlc
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_ti_tax_subjects.rdlc
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_ti_eea_subjects.rdlc
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_total_ti_districts.rdlc
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_total_ti_subjects.rdlc
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_population_subjects.rdlc
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_population_districts.rdlc
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_kdol_subjects.rdlc
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Reports_params.xml
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe.config
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe.manifest
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.application
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.pdb
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.Common.dll
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.WinForms.dll
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\PresentationCore.dll
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\PresentationFramework.dll
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\System.Web.Services.dll
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\System.Xml.dll
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\System.Xml.Linq.dll
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\UIAutomationProvider.dll
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\WindowsBase.dll
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\WindowsFormsIntegration.dll
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.WinForms.xml
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\ResolveAssemblyReference.cache
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\MapControl.baml
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\MapControl.g.cs
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser_Content.g.cs
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser_MarkupCompile.cache
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.g.resources
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlSubjects.resources
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlTaxes.resources
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.Map.UserControl1.resources
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.UserControlAnalysisDataDefault.resources
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormApp.resources
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormLogin.resources
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.ComponentViews.resources
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisData.resources
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisDataOnMap.resources
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormChoiceParamAdvance.resources
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormReport.resources
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormAbout.resources
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Properties.Resources.resources
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\RdlCompile.cache
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\RdlCompile.compiled
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.TrustInfo.xml
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.exe.manifest
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.application
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.exe
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.pdb
+P:\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_eea_subjects_1010.rdlc
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_accum_share_ti-busyed.rdlc
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_eea_subjects_1010.rdlc
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_eea_subjects.rdlc
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_nm_nom_error_subjects.rdlc
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_rmit_tax_subjects.rdlc
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_ti_tax_subjects.rdlc
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_ti_eea_subjects.rdlc
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_total_ti_districts.rdlc
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_total_ti_subjects.rdlc
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_population_subjects.rdlc
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_population_districts.rdlc
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_kdol_subjects.rdlc
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Reports_params.xml
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe.config
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe.manifest
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.application
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.pdb
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.Common.dll
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.WinForms.dll
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\PresentationCore.dll
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\PresentationFramework.dll
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\System.Web.Services.dll
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\System.Xml.dll
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\System.Xml.Linq.dll
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\UIAutomationProvider.dll
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\WindowsBase.dll
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\WindowsFormsIntegration.dll
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.WinForms.xml
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\ResolveAssemblyReference.cache
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\MapControl.baml
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\MapControl.g.cs
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser_Content.g.cs
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser_MarkupCompile.cache
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.g.resources
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlSubjects.resources
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlTaxes.resources
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.Map.UserControl1.resources
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.UserControlAnalysisDataDefault.resources
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormApp.resources
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormLogin.resources
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.ComponentViews.resources
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisData.resources
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisDataOnMap.resources
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormChoiceParamAdvance.resources
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormReport.resources
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormAbout.resources
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Properties.Resources.resources
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\RdlCompile.cache
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\RdlCompile.compiled
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.TrustInfo.xml
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.exe.manifest
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.application
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.exe
+H:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.pdb
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe.config
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.exe
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.pdb
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_accum_share_ti-busyed.rdlc
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_eea_subjects_1010.rdlc
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_nm_nom_error_subjects.rdlc
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_rmit_tax_subjects.rdlc
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_ti_tax_subjects.rdlc
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_ti_eea_subjects.rdlc
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_total_ti_districts.rdlc
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_total_ti_subjects.rdlc
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_population_subjects.rdlc
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_population_districts.rdlc
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_kdol_subjects.rdlc
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Reports_params.xml
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe.manifest
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.application
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.pdb
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.Common.dll
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.WinForms.dll
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\PresentationCore.dll
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\PresentationFramework.dll
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\System.Web.Services.dll
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\System.Xml.dll
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\System.Xml.Linq.dll
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\UIAutomationProvider.dll
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\WindowsBase.dll
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\WindowsFormsIntegration.dll
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.WinForms.xml
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\ResolveAssemblyReference.cache
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\MapControl.baml
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\MapControl.g.cs
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser_Content.g.cs
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser_MarkupCompile.cache
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.g.resources
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlSubjects.resources
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlTaxes.resources
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.Map.UserControl1.resources
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.UserControlAnalysisDataDefault.resources
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormApp.resources
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormLogin.resources
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.ComponentViews.resources
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisData.resources
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisDataOnMap.resources
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormChoiceParamAdvance.resources
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormReport.resources
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormAbout.resources
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Properties.Resources.resources
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\RdlCompile.cache
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\RdlCompile.compiled
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.TrustInfo.xml
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.exe.manifest
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.application
+Q:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe.config
+Q:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.exe
+Q:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.pdb
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_accum_share_ti-busyed.rdlc
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_eea_subjects_1010.rdlc
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_rmit_eea_subjects.rdlc
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_nm_nom_error_subjects.rdlc
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_rmit_tax_subjects.rdlc
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_ti_tax_subjects.rdlc
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_ti_eea_subjects.rdlc
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_total_ti_districts.rdlc
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_total_ti_subjects.rdlc
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_population_subjects.rdlc
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_population_districts.rdlc
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_kdol_subjects.rdlc
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Reports_params.xml
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe.config
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe.manifest
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.application
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.pdb
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.Common.dll
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.WinForms.dll
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\PresentationCore.dll
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\PresentationFramework.dll
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\System.Web.Services.dll
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\System.Xml.dll
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\System.Xml.Linq.dll
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\UIAutomationProvider.dll
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\WindowsBase.dll
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\WindowsFormsIntegration.dll
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.WinForms.xml
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\ResolveAssemblyReference.cache
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\MapControl.baml
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\MapControl.g.cs
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser_Content.g.cs
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser_MarkupCompile.cache
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.g.resources
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlSubjects.resources
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlTaxes.resources
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.Map.UserControl1.resources
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.UserControlAnalysisDataDefault.resources
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormApp.resources
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormLogin.resources
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.ComponentViews.resources
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisData.resources
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisDataOnMap.resources
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormChoiceParamAdvance.resources
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormReport.resources
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormAbout.resources
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Properties.Resources.resources
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\RdlCompile.cache
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\RdlCompile.compiled
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.TrustInfo.xml
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.exe.manifest
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.application
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.exe
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.pdb
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_kdol_eea_subjects.rdlc
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_share_ti_eea_gks_districts.rdlc
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_ti_population_eea_gks_subjects.rdlc
+N:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_eea_tax_subjects.rdlc
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_rmit_eea_subjects.rdlc
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_kdol_eea_subjects.rdlc
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_share_ti_eea_gks_districts.rdlc
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_ti_population_eea_gks_subjects.rdlc
+F:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_eea_tax_subjects.rdlc
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe.config
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.exe
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.pdb
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_accum_share_ti-busyed.rdlc
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_eea_subjects_1010.rdlc
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_rmit_eea_subjects.rdlc
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_kdol_eea_subjects.rdlc
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_share_ti_eea_gks_districts.rdlc
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_ti_population_eea_gks_subjects.rdlc
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_eea_tax_subjects.rdlc
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_nm_nom_error_subjects.rdlc
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_rmit_tax_subjects.rdlc
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_ti_tax_subjects.rdlc
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_ti_eea_subjects.rdlc
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_total_ti_districts.rdlc
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_total_ti_subjects.rdlc
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_population_subjects.rdlc
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_population_districts.rdlc
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_kdol_subjects.rdlc
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Reports_params.xml
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe.manifest
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.application
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.pdb
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.Common.dll
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\PresentationCore.dll
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\PresentationFramework.dll
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\System.Web.Services.dll
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\System.Xml.dll
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\System.Xml.Linq.dll
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\UIAutomationProvider.dll
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\WindowsBase.dll
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\WindowsFormsIntegration.dll
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.WinForms.xml
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\MapControl.baml
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\MapControl.g.cs
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser_Content.g.cs
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser_MarkupCompile.cache
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.g.resources
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlSubjects.resources
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlTaxes.resources
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.Map.UserControl1.resources
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.UserControlAnalysisDataDefault.resources
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormApp.resources
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormLogin.resources
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.ComponentViews.resources
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisData.resources
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisDataOnMap.resources
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormChoiceParamAdvance.resources
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormReport.resources
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormAbout.resources
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Properties.Resources.resources
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\RdlCompile.cache
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\RdlCompile.compiled
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.TrustInfo.xml
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.exe.manifest
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.application
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\Map\UserControl2.baml
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\SubjectDetailMapControl.baml
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\Map\UserControl2.g.cs
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\SubjectDetailMapControl.g.cs
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormSubjectDetail.resources
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\discriptions\html\total_ti_districts\index.html
+D:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\discriptions\html\rmit_tax_subjects\index.html
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe.config
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.exe
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.pdb
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\discriptions\html\rmit_tax_subjects\index.html
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\discriptions\html\total_ti_districts\index.html
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_accum_share_ti-busyed.rdlc
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_rmit_subjects.rdlc
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_eea_subjects_1010.rdlc
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_rmit_eea_subjects.rdlc
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_kdol_eea_subjects.rdlc
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_share_ti_eea_gks_districts.rdlc
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_ti_population_eea_gks_subjects.rdlc
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_export_ti_tax_subjects.rdlc
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_eea_tax_subjects.rdlc
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_nm_nom_error_subjects.rdlc
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_rmit_tax_subjects.rdlc
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_ti_tax_subjects.rdlc
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_ti_eea_subjects.rdlc
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_total_ti_districts.rdlc
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_total_ti_subjects.rdlc
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_population_subjects.rdlc
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_population_districts.rdlc
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_kdol_subjects.rdlc
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Reports_params.xml
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe.manifest
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.application
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.pdb
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.Common.dll
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.WinForms.dll
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\PresentationCore.dll
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\PresentationFramework.dll
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\System.Web.Services.dll
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\System.Xml.dll
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\System.Xml.Linq.dll
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\UIAutomationProvider.dll
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\WindowsBase.dll
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\WindowsFormsIntegration.dll
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.WinForms.xml
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\Map\UserControl2.baml
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\SubjectDetailMapControl.baml
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\MapControl.baml
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\Map\UserControl2.g.cs
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\SubjectDetailMapControl.g.cs
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\MapControl.g.cs
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser_Content.g.cs
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser_MarkupCompile.cache
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.g.resources
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlSubjects.resources
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlTaxes.resources
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.Map.UserControl1.resources
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.UserControlAnalysisDataDefault.resources
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormApp.resources
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormLogin.resources
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.ComponentViews.resources
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisData.resources
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisDataOnMap.resources
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormChoiceParamAdvance.resources
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormExtention.resources
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormReport.resources
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormAbout.resources
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormSubjectDetail.resources
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Properties.Resources.resources
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\RdlCompile.cache
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\RdlCompile.compiled
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.TrustInfo.xml
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.exe.manifest
+E:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.application
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe.config
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.exe
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.pdb
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\discriptions\html\articles\accum_subject\index.html
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\discriptions\html\articles\index.html
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\discriptions\html\articles\kdol_subjects\index.html
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\discriptions\html\articles\population_subjects\index.html
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\discriptions\html\articles\rmit_eea_subjects\index.html
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\discriptions\html\articles\rmit_subjects\index.html
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\discriptions\html\articles\view_ti_tax\index.html
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\discriptions\html\articles\population_districts\index.html
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\discriptions\html\articles\rmit_tax_subjects\index.html
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\discriptions\html\articles\total_ti_districts\index.html
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\discriptions\html\articles\total_ti_subjects\index.html
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_rmit_subjects.rdlc
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_eea_subjects_1010.rdlc
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_rmit_eea_subjects.rdlc
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_kdol_eea_subjects.rdlc
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_share_ti_eea_gks_districts.rdlc
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_ti_population_eea_gks_subjects.rdlc
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_export_ti_tax_subjects.rdlc
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_dynamics_total_ti_subjects.rdlc
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_dynamics_ti_tax_subjects.rdlc
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_eea_tax_subjects.rdlc
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_nm_nom_error_subjects.rdlc
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_rmit_tax_subjects.rdlc
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_ti_tax_subjects.rdlc
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_ti_eea_subjects.rdlc
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_total_ti_districts.rdlc
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_total_ti_subjects.rdlc
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_population_subjects.rdlc
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_population_districts.rdlc
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_kdol_subjects.rdlc
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Reports_params.xml
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe.manifest
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.application
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.pdb
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.Common.dll
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.WinForms.dll
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\PresentationCore.dll
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\PresentationFramework.dll
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\System.Web.Services.dll
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\System.Xml.dll
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\System.Xml.Linq.dll
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\UIAutomationProvider.dll
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\WindowsBase.dll
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\WindowsFormsIntegration.dll
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.WinForms.xml
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\ResolveAssemblyReference.cache
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\Map\UserControl2.baml
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\SubjectDetailMapControl.baml
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\MapControl.baml
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\Map\UserControl2.g.cs
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\SubjectDetailMapControl.g.cs
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\MapControl.g.cs
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser_Content.g.cs
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser_MarkupCompile.cache
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.g.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlSubjects.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlTaxes.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.Map.UserControl1.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.UserControlAnalysisDataDefault.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormApp.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormLogin.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormStarter.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.ComponentViews.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisData.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisDataOnMap.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormChoiceParamAdvance.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormExtention.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormReport.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormAbout.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormSubjectDetail.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Properties.Resources.resources
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\RdlCompile.cache
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\RdlCompile.compiled
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.TrustInfo.xml
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.exe.manifest
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.application
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\discriptions\html\articles\accum_subject\index.html
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\discriptions\html\articles\index.html
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\discriptions\html\articles\kdol_subjects\index.html
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\discriptions\html\articles\population_subjects\index.html
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\discriptions\html\articles\rmit_eea_subjects\index.html
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\discriptions\html\articles\rmit_subjects\index.html
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\discriptions\html\articles\view_ti_tax\index.html
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\discriptions\html\articles\population_districts\index.html
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\discriptions\html\articles\rmit_tax_subjects\index.html
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\discriptions\html\articles\total_ti_districts\index.html
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\discriptions\html\articles\total_ti_subjects\index.html
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_rmit_subjects.rdlc
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_eea_subjects_1010.rdlc
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_rmit_eea_subjects.rdlc
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_kdol_eea_subjects.rdlc
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_share_ti_eea_gks_districts.rdlc
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_ti_population_eea_gks_subjects.rdlc
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_export_ti_tax_subjects.rdlc
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_dynamics_total_ti_subjects.rdlc
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_dynamics_ti_tax_subjects.rdlc
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_eea_tax_subjects.rdlc
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_nm_nom_error_subjects.rdlc
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_rmit_tax_subjects.rdlc
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_ti_tax_subjects.rdlc
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_ti_eea_subjects.rdlc
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_total_ti_districts.rdlc
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_total_ti_subjects.rdlc
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_population_subjects.rdlc
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_population_districts.rdlc
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_kdol_subjects.rdlc
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Reports_params.xml
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe.config
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe.manifest
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.application
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.exe
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\NalogUser.pdb
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.Common.dll
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.WinForms.dll
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\PresentationCore.dll
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\PresentationFramework.dll
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\System.Web.Services.dll
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\System.Xml.dll
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\System.Xml.Linq.dll
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\UIAutomationProvider.dll
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\WindowsBase.dll
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\WindowsFormsIntegration.dll
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.WinForms.xml
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\ResolveAssemblyReference.cache
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\Map\UserControl2.baml
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\SubjectDetailMapControl.baml
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\MapControl.baml
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\Map\UserControl2.g.cs
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\SubjectDetailMapControl.g.cs
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\Controls\MapControl.g.cs
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser_Content.g.cs
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser_MarkupCompile.cache
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.g.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlSubjects.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlTaxes.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.Map.UserControl1.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.UserControlAnalysisDataDefault.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormApp.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormLogin.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormStarter.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.ComponentViews.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisData.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisDataOnMap.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormChoiceParamAdvance.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormExtention.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormReport.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.FormAbout.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormSubjectDetail.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.Properties.Resources.resources
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\RdlCompile.cache
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\RdlCompile.compiled
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.TrustInfo.xml
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.exe.manifest
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.application
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.exe
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\obj\x86\Release\NalogUser.pdb
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_accumulate_share_ti_busyed_subjects.rdlc
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_dynamics_total_ti_districts.rdlc
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_analytics_forecast_ticp_subjects.rdlc
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_performance_functioning_eea_districts.rdlc
+O:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_performance_functioning_eea_subjects.rdlc
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_accumulate_share_ti_busyed_subjects.rdlc
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_analytics_forecast_ticp_subjects.rdlc
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_dynamics_total_ti_districts.rdlc
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_performance_functioning_eea_districts.rdlc
+G:\Образование\Институт\Предметы\Аспирантура\1-Кандидатская\Проект\Программа\mainApp\NalogUser\bin\Release\reports\Report_performance_functioning_eea_subjects.rdlc
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_rmit_subjects.rdlc
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_share_ti_eea_gks_districts.rdlc
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_dynamics_total_ti_subjects.rdlc
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_dynamics_ti_tax_subjects.rdlc
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_dynamics_total_ti_districts.rdlc
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_performance_functioning_eea_districts.rdlc
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_rmit_tax_subjects.rdlc
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_ti_tax_subjects.rdlc
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_ti_eea_subjects.rdlc
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_total_ti_districts.rdlc
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_total_ti_subjects.rdlc
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_population_subjects.rdlc
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_population_districts.rdlc
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_kdol_subjects.rdlc
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Reports_params.xml
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\NalogUser.exe.config
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\NalogUser.exe.manifest
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\NalogUser.application
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\NalogUser.exe
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\NalogUser.pdb
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.Common.dll
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.WinForms.dll
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\PresentationCore.dll
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\PresentationFramework.dll
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\System.Web.Services.dll
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\System.Xml.dll
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\System.Xml.Linq.dll
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\UIAutomationProvider.dll
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\WindowsBase.dll
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\WindowsFormsIntegration.dll
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.WinForms.xml
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\ResolveAssemblyReference.cache
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\Controls\Map\UserControl2.baml
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\Controls\SubjectDetailMapControl.baml
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\Controls\MapControl.baml
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\Controls\Map\UserControl2.g.cs
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\Controls\SubjectDetailMapControl.g.cs
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\Controls\MapControl.g.cs
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser_Content.g.cs
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser_MarkupCompile.cache
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.g.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlSubjects.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlTaxes.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.Map.UserControl1.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.UserControlAnalysisDataDefault.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.FormApp.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.FormLogin.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.FormStarter.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.ComponentViews.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisData.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisDataOnMap.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormChoiceParamAdvance.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormExtention.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormReport.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.FormAbout.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormSubjectDetail.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Properties.Resources.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\RdlCompile.cache
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\RdlCompile.compiled
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.TrustInfo.xml
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.exe.manifest
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.application
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.exe
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.pdb
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormExperimental.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_rmit_eea_gks_subjects.rdlc
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_kdol_eea_gks_subjects.rdlc
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\1\Report_analytics_forecast_ticp_subjects.rdlc
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\1\Report_d.rdlc
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_eea_views_tax_subjects.rdlc
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_z_tax_subjects.rdlc
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_taxes.rdlc
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\Controls\Map\UserControl2.baml
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\Controls\SubjectDetailMapControl.baml
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\Controls\MapControl.baml
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\Controls\Map\UserControl2.g.cs
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\Controls\SubjectDetailMapControl.g.cs
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\Controls\MapControl.g.cs
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser_Content.g.cs
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser_MarkupCompile.cache
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.g.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlSubjects.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlTaxes.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.Map.UserControl1.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.UserControlAnalysisDataDefault.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.FormApp.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.FormLogin.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.FormStarter.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.ComponentViews.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisData.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisDataOnMap.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormChoiceParamAdvance.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormExperimental.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormExtention.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormReport.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.FormAbout.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormSubjectDetail.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\RdlCompile.cache
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\RdlCompile.compiled
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_taxes.rdlc
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_z_tax_subjects.rdlc
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_rmit_subjects.rdlc
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_rmit_eea_gks_subjects.rdlc
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_kdol_eea_gks_subjects.rdlc
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_share_ti_eea_gks_districts.rdlc
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_dynamics_total_ti_subjects.rdlc
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_dynamics_ti_tax_subjects.rdlc
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\1\Report_analytics_forecast_ticp_subjects.rdlc
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_dynamics_total_ti_districts.rdlc
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_performance_functioning_eea_districts.rdlc
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\1\Report_d.rdlc
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_eea_views_tax_subjects.rdlc
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_rmit_tax_subjects.rdlc
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_ti_tax_subjects.rdlc
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_ti_eea_subjects.rdlc
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_total_ti_districts.rdlc
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_population_subjects.rdlc
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_population_districts.rdlc
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_kdol_subjects.rdlc
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Reports_params.xml
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\NalogUser.exe.config
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\NalogUser.exe.manifest
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\NalogUser.application
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\NalogUser.exe
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\NalogUser.pdb
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.Common.dll
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\PresentationCore.dll
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\PresentationFramework.dll
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\System.Web.Services.dll
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\System.Xml.dll
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\System.Xml.Linq.dll
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\UIAutomationProvider.dll
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\WindowsBase.dll
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\WindowsFormsIntegration.dll
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.WinForms.xml
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.TrustInfo.xml
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.exe.manifest
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.application
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.exe
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.pdb
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\Chart2DLib.dll
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormParamsSpreading.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormSpreading.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\Chart2DLib.dll
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormParamsSpreading.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormSpreading.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_z_subjects.rdlc
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormParams.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_z_subjects.rdlc
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormParams.resources
+G:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_lawrence_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\reports\Report_lawrence_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\reports\Report_z_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\reports\Report_taxes.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\reports\Report_z_tax_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\reports\Report_rmit_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\reports\Report_rmit_eea_gks_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\reports\Report_kdol_eea_gks_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\reports\Report_share_ti_eea_gks_districts.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\reports\Report_dynamics_total_ti_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\reports\Report_dynamics_ti_tax_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\reports\1\Report_analytics_forecast_ticp_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\reports\Report_dynamics_total_ti_districts.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\reports\Report_performance_functioning_eea_districts.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\reports\1\Report_d.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\reports\Report_ti_tax_districts.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\reports\Report_ti_eea_districts.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\reports\Report_population_eea_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\reports\Report_dynamics_population_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\reports\Report_share_population_of_subject_in_district.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\reports\Report_share_population_of_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\reports\Report_dynamics_z_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\reports\Report_dynamics_rmit_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\reports\Report_kdol_of_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\reports\Report_analytics_forecast_ticp_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\reports\Report_dynamics_ti_eea_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\reports\Report_eea_views_tax_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\reports\Report_rmit_tax_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\reports\Report_ti_tax_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\reports\Report_ti_eea_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\reports\Report_total_ti_districts.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\reports\Report_total_ti_tax_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\reports\Report_population_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\reports\Report_population_districts.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\reports\Report_kdol_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\reports\Reports_params.xml
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\Chart2DLib.dll
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\Microsoft.ReportViewer.Common.dll
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\Microsoft.ReportViewer.WinForms.dll
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\PresentationCore.dll
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\PresentationFramework.dll
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\System.Web.Services.dll
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\System.Xml.dll
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\System.Xml.Linq.dll
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\UIAutomationProvider.dll
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\WindowsBase.dll
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\WindowsFormsIntegration.dll
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\bin\Release\Microsoft.ReportViewer.WinForms.xml
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\obj\x86\Release\ResolveAssemblyReference.cache
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\obj\x86\Release\Controls\Map\UserControl2.baml
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\obj\x86\Release\Controls\SubjectDetailMapControl.baml
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\obj\x86\Release\Controls\MapControl.baml
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\obj\x86\Release\Controls\Map\UserControl2.g.cs
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\obj\x86\Release\Controls\SubjectDetailMapControl.g.cs
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\obj\x86\Release\Controls\MapControl.g.cs
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlSubjects.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlTaxes.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\obj\x86\Release\NalogUser.Controls.Map.UserControl1.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\obj\x86\Release\NalogUser.Controls.Settings.UserControlAccessSettings.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\obj\x86\Release\NalogUser.Controls.Settings.UserControlSQLSettings.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\obj\x86\Release\NalogUser.Controls.UserControlAnalysisDataDefault.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\obj\x86\Release\NalogUser.FormApp.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\obj\x86\Release\NalogUser.FormLogin.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\obj\x86\Release\NalogUser.FormStarter.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\obj\x86\Release\NalogUser.Forms.ComponentViews.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisData.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisDataOnMap.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\obj\x86\Release\NalogUser.Forms.FormChoiceParamAdvance.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\obj\x86\Release\NalogUser.Forms.FormExperimental.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\obj\x86\Release\NalogUser.Forms.FormExtention.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\obj\x86\Release\NalogUser.Forms.FormParams.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\obj\x86\Release\NalogUser.Forms.FormParamsSpreading.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\obj\x86\Release\NalogUser.Forms.FormReport.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\obj\x86\Release\NalogUser.FormAbout.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\obj\x86\Release\NalogUser.Forms.FormSettings.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\obj\x86\Release\NalogUser.Forms.FormSpreading.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\obj\x86\Release\NalogUser.Forms.FormSubjectDetail.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\obj\x86\Release\RdlCompile.cache
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - local\NalogUser\obj\x86\Release\RdlCompile.compiled
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_lawrence_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\user.config
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_z_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_taxes.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_z_tax_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_rmit_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_rmit_eea_gks_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_kdol_eea_gks_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_share_ti_eea_gks_districts.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_dynamics_total_ti_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_dynamics_ti_tax_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\1\Report_analytics_forecast_ticp_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_dynamics_total_ti_districts.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_performance_functioning_eea_districts.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\1\Report_d.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_ti_tax_districts.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_ti_eea_districts.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_population_eea_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_dynamics_population_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_share_population_of_subject_in_district.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_share_population_of_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_dynamics_z_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_dynamics_rmit_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_kdol_of_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_analytics_forecast_ticp_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_dynamics_ti_eea_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_eea_views_tax_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_rmit_tax_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_ti_tax_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_ti_eea_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_total_ti_districts.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_total_ti_tax_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_population_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_population_districts.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_kdol_subjects.rdlc
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Reports_params.xml
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\Chart2DLib.dll
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.Common.dll
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.WinForms.dll
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\PresentationCore.dll
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\PresentationFramework.dll
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\System.Web.Services.dll
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\System.Xml.dll
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\System.Xml.Linq.dll
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\UIAutomationProvider.dll
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\WindowsBase.dll
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\WindowsFormsIntegration.dll
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.WinForms.xml
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\ResolveAssemblyReference.cache
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\Controls\Map\UserControl2.baml
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\Controls\SubjectDetailMapControl.baml
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\Controls\MapControl.baml
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\Controls\Map\UserControl2.g.cs
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\Controls\SubjectDetailMapControl.g.cs
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\Controls\MapControl.g.cs
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlSubjects.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlTaxes.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.Map.UserControl1.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.Settings.UserControlAccessSettings.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.Settings.UserControlSQLSettings.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.UserControlAnalysisDataDefault.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.FormApp.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.FormLogin.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.FormStarter.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.ComponentViews.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisData.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisDataOnMap.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormChoiceParamAdvance.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormExperimental.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormExtention.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormParams.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormParamsSpreading.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormReport.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.FormAbout.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormSettings.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormSpreading.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormSubjectDetail.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\RdlCompile.cache
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\RdlCompile.compiled
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - Local\NalogUser\bin\Release\user.config
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - Local\NalogUser\bin\Release\IAS_Nalog.accdb
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - Local\NalogUser\bin\Release\NalogUser-local.exe.config
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - Local\NalogUser\bin\Release\NalogUser-local.exe.manifest
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - Local\NalogUser\bin\Release\NalogUser-local.application
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - Local\NalogUser\bin\Release\NalogUser-local.exe
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - Local\NalogUser\bin\Release\NalogUser-local.pdb
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - Local\NalogUser\obj\x86\Release\NalogUser-local_Content.g.cs
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - Local\NalogUser\obj\x86\Release\NalogUser-local_MarkupCompile.cache
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - Local\NalogUser\obj\x86\Release\NalogUser-local.g.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - Local\NalogUser\obj\x86\Release\NalogUser-local.TrustInfo.xml
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - Local\NalogUser\obj\x86\Release\NalogUser-local.exe.manifest
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - Local\NalogUser\obj\x86\Release\NalogUser-local.application
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - Local\NalogUser\obj\x86\Release\NalogUser-local.exe
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - Local\NalogUser\obj\x86\Release\NalogUser-local.pdb
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp - Local\NalogUser\bin\Release\config.ini
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\config.ini
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\NalogUser.exe.config
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\NalogUser.exe.manifest
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\NalogUser.application
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\NalogUser.exe
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\NalogUser.pdb
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser_Content.g.cs
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser_MarkupCompile.cache
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.g.resources
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.TrustInfo.xml
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.exe.manifest
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.application
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.exe
+O:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.pdb
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.Settings.UserControlAccessSettings.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.Settings.UserControlSQLSettings.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormSettings.resources
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_lawrence_subjects.rdlc
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\config.ini
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\user.config
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_ti_tax_districts.rdlc
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_ti_eea_districts.rdlc
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_population_eea_subjects.rdlc
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_dynamics_population_subjects.rdlc
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_share_population_of_subject_in_district.rdlc
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_share_population_of_subjects.rdlc
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_dynamics_z_subjects.rdlc
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_dynamics_rmit_subjects.rdlc
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_kdol_of_subjects.rdlc
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_analytics_forecast_ticp_subjects.rdlc
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_dynamics_ti_eea_subjects.rdlc
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_total_ti_tax_subjects.rdlc
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\NalogUser.exe.config
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.exe
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.pdb
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_lawrence_subjects.rdlc
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\config.ini
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\user.config
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_z_subjects.rdlc
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_taxes.rdlc
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_z_tax_subjects.rdlc
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_rmit_subjects.rdlc
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_rmit_eea_gks_subjects.rdlc
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_kdol_eea_gks_subjects.rdlc
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_share_ti_eea_gks_districts.rdlc
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_dynamics_total_ti_subjects.rdlc
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_dynamics_ti_tax_subjects.rdlc
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\1\Report_analytics_forecast_ticp_subjects.rdlc
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_dynamics_total_ti_districts.rdlc
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_performance_functioning_eea_districts.rdlc
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\1\Report_d.rdlc
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_ti_tax_districts.rdlc
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_ti_eea_districts.rdlc
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_population_eea_subjects.rdlc
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_dynamics_population_subjects.rdlc
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_share_population_of_subject_in_district.rdlc
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_share_population_of_subjects.rdlc
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_dynamics_z_subjects.rdlc
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_dynamics_rmit_subjects.rdlc
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_kdol_of_subjects.rdlc
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_analytics_forecast_ticp_subjects.rdlc
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_dynamics_ti_eea_subjects.rdlc
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_eea_views_tax_subjects.rdlc
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_rmit_tax_subjects.rdlc
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_ti_tax_subjects.rdlc
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_ti_eea_subjects.rdlc
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_total_ti_districts.rdlc
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_total_ti_tax_subjects.rdlc
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_population_subjects.rdlc
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_population_districts.rdlc
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_kdol_subjects.rdlc
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Reports_params.xml
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\NalogUser.exe.manifest
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\NalogUser.application
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\NalogUser.exe
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\NalogUser.pdb
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\Chart2DLib.dll
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.Common.dll
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.WinForms.dll
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\PresentationCore.dll
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\PresentationFramework.dll
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\System.Web.Services.dll
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\System.Xml.dll
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\System.Xml.Linq.dll
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\UIAutomationProvider.dll
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\WindowsBase.dll
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\WindowsFormsIntegration.dll
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\Microsoft.ReportViewer.WinForms.xml
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\ResolveAssemblyReference.cache
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\Controls\Map\UserControl2.baml
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\Controls\SubjectDetailMapControl.baml
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\Controls\MapControl.baml
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\Controls\Map\UserControl2.g.cs
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\Controls\SubjectDetailMapControl.g.cs
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\Controls\MapControl.g.cs
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser_Content.g.cs
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser_MarkupCompile.cache
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.g.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlSubjects.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlTaxes.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.Map.UserControl1.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.Settings.UserControlAccessSettings.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.Settings.UserControlSQLSettings.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.UserControlAnalysisDataDefault.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.FormApp.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.FormLogin.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.FormStarter.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.ComponentViews.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisData.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisDataOnMap.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormChoiceParamAdvance.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormExperimental.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormExtention.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormParams.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormParamsSpreading.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormReport.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.FormAbout.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormSettings.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormSpreading.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormSubjectDetail.resources
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\RdlCompile.cache
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\RdlCompile.compiled
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.TrustInfo.xml
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.exe.manifest
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.application
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\NalogUser.exe.config
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\Controls\Map\UserControl2.baml
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\Controls\SubjectDetailMapControl.baml
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\Controls\MapControl.baml
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\Controls\Map\UserControl2.g.cs
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\Controls\SubjectDetailMapControl.g.cs
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\Controls\MapControl.g.cs
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser_Content.g.cs
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser_MarkupCompile.cache
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.g.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlSubjects.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlTaxes.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.Map.UserControl1.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.Settings.UserControlAccessSettings.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.Settings.UserControlSQLSettings.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Controls.UserControlAnalysisDataDefault.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.FormApp.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.FormLogin.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.FormStarter.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.ComponentViews.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisData.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisDataOnMap.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormChoiceParamAdvance.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormExperimental.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormExtention.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormParams.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormParamsSpreading.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormReport.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.FormAbout.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormSettings.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormSpreading.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\NalogUser.Forms.FormSubjectDetail.resources
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\RdlCompile.cache
+E:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\obj\x86\Release\RdlCompile.compiled
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\Chart2DLib.pdb
+D:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_ti_eea_taxes_subjects.rdlc
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\reports\Report_ti_eea_taxes_subjects.rdlc
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp\NalogUser\bin\Release\Chart2DLib.pdb
+K:\Образование\Разработки\Программа\ИАС Налог\mainApp - Administrator\NalogUser\bin\Release\NalogUser.exe.config
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogUser\obj\x86\Release\NalogUser.csprojResolveAssemblyReference.cache
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogUser\obj\x86\Release\Controls\Map\UserControl2.baml
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogUser\obj\x86\Release\Controls\SubjectDetailMapControl.baml
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogUser\obj\x86\Release\Controls\MapControl.baml
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogUser\obj\x86\Release\Controls\Map\UserControl2.g.cs
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogUser\obj\x86\Release\Controls\SubjectDetailMapControl.g.cs
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogUser\obj\x86\Release\Controls\MapControl.g.cs
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogUser\obj\x86\Release\NalogUser_Content.g.cs
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogUser\obj\x86\Release\NalogUser_MarkupCompile.cache
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogUser\obj\x86\Release\NalogUser.g.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlSubjects.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogUser\obj\x86\Release\NalogUser.Controls.AnalysisData.UserControlTaxes.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogUser\obj\x86\Release\NalogUser.Controls.Map.UserControl1.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogUser\obj\x86\Release\NalogUser.Controls.Settings.UserControlAccessSettings.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogUser\obj\x86\Release\NalogUser.Controls.Settings.UserControlSQLSettings.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogUser\obj\x86\Release\NalogUser.Controls.UserControlAnalysisDataDefault.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogUser\obj\x86\Release\NalogUser.FormApp.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogUser\obj\x86\Release\NalogUser.FormLogin.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogUser\obj\x86\Release\NalogUser.FormStarter.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogUser\obj\x86\Release\NalogUser.Forms.ComponentViews.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisData.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogUser\obj\x86\Release\NalogUser.Forms.FormAnalysisDataOnMap.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogUser\obj\x86\Release\NalogUser.Forms.FormChoiceParamAdvance.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogUser\obj\x86\Release\NalogUser.Forms.FormExperimental.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogUser\obj\x86\Release\NalogUser.Forms.FormExtention.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogUser\obj\x86\Release\NalogUser.Forms.FormParams.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogUser\obj\x86\Release\NalogUser.Forms.FormParamsSpreading.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogUser\obj\x86\Release\NalogUser.Forms.FormReport.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogUser\obj\x86\Release\NalogUser.FormAbout.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogUser\obj\x86\Release\NalogUser.Forms.FormSettings.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogUser\obj\x86\Release\NalogUser.Forms.FormSpreading.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogUser\obj\x86\Release\NalogUser.Forms.FormSubjectDetail.resources
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogUser\obj\x86\Release\NalogUser.csproj.GenerateResource.Cache
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogUser\obj\x86\Release\RdlCompile.cache
+G:\Projects\3 ИАС Налоги РФ\mainApp - Administrator\NalogUser\obj\x86\Release\RdlCompile.compiled
